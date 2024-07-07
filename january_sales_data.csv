@@ -1,0 +1,1675 @@
+Transaction,Date,Customer,Item_Code,Brand,Qty,Unit_Price,Total_Price
+sales,01-Jan-23,C1,A1,Hamam,5,10,50
+sales,01-Jan-23,C1,A2,LUX,3,10,30
+sales,01-Jan-23,C1,A3,Park Avenue,10,10,100
+sales,01-Jan-23,C1,A4,Cinthol,8,10,80
+sales,01-Jan-23,C1,A5,Dove,6,10,60
+sales,01-Jan-23,C1,A6,Medimix,8,10,80
+sales,01-Jan-23,C2,A1,Hamam,6,10,60
+sales,01-Jan-23,C2,A2,LUX,1,10,10
+sales,01-Jan-23,C2,A3,Park Avenue,1,10,10
+sales,01-Jan-23,C2,A4,Cinthol,7,10,70
+sales,01-Jan-23,C2,A5,Dove,9,10,90
+sales,01-Jan-23,C2,A6,Medimix,5,10,50
+sales,01-Jan-23,C3,A1,Hamam,6,10,60
+sales,01-Jan-23,C3,A2,LUX,7,10,70
+sales,01-Jan-23,C3,A3,Park Avenue,4,10,40
+sales,01-Jan-23,C3,A4,Cinthol,8,10,80
+sales,01-Jan-23,C3,A5,Dove,1,10,10
+sales,01-Jan-23,C3,A6,Medimix,10,10,100
+sales,01-Jan-23,C4,A1,Hamam,7,10,70
+sales,01-Jan-23,C4,A2,LUX,10,10,100
+sales,01-Jan-23,C4,A3,Park Avenue,9,10,90
+sales,01-Jan-23,C4,A4,Cinthol,3,10,30
+sales,01-Jan-23,C4,A5,Dove,3,10,30
+sales,01-Jan-23,C4,A6,Medimix,8,10,80
+sales,01-Jan-23,C5,A1,Hamam,7,10,70
+sales,01-Jan-23,C5,A2,LUX,2,10,20
+sales,01-Jan-23,C5,A3,Park Avenue,9,10,90
+sales,01-Jan-23,C5,A4,Cinthol,5,10,50
+sales,01-Jan-23,C5,A5,Dove,1,10,10
+sales,01-Jan-23,C5,A6,Medimix,2,10,20
+sales,01-Jan-23,C6,A1,Hamam,5,10,50
+sales,01-Jan-23,C6,A2,LUX,3,10,30
+sales,01-Jan-23,C6,A3,Park Avenue,1,10,10
+sales,01-Jan-23,C6,A4,Cinthol,7,10,70
+sales,01-Jan-23,C6,A5,Dove,2,10,20
+sales,01-Jan-23,C6,A6,Medimix,5,10,50
+sales,01-Jan-23,C7,A1,Hamam,4,10,40
+sales,01-Jan-23,C7,A2,LUX,9,10,90
+sales,01-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,01-Jan-23,C7,A4,Cinthol,3,10,30
+sales,01-Jan-23,C7,A5,Dove,3,10,30
+sales,01-Jan-23,C7,A6,Medimix,2,10,20
+sales,01-Jan-23,C8,A1,Hamam,8,10,80
+sales,01-Jan-23,C8,A2,LUX,3,10,30
+sales,01-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,01-Jan-23,C8,A4,Cinthol,6,10,60
+sales,01-Jan-23,C8,A5,Dove,5,10,50
+sales,01-Jan-23,C8,A6,Medimix,5,10,50
+sales,01-Jan-23,C9,A1,Hamam,1,10,10
+sales,01-Jan-23,C9,A2,LUX,1,10,10
+sales,01-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,01-Jan-23,C9,A4,Cinthol,8,10,80
+sales,01-Jan-23,C9,A5,Dove,1,10,10
+sales,01-Jan-23,C9,A6,Medimix,9,10,90
+sales,02-Jan-23,C1,A1,Hamam,4,10,40
+sales,02-Jan-23,C1,A2,LUX,6,10,60
+sales,02-Jan-23,C1,A3,Park Avenue,6,10,60
+sales,02-Jan-23,C1,A4,Cinthol,9,10,90
+sales,02-Jan-23,C1,A5,Dove,6,10,60
+sales,02-Jan-23,C1,A6,Medimix,8,10,80
+sales,02-Jan-23,C2,A1,Hamam,9,10,90
+sales,02-Jan-23,C2,A2,LUX,5,10,50
+sales,02-Jan-23,C2,A3,Park Avenue,8,10,80
+sales,02-Jan-23,C2,A4,Cinthol,8,10,80
+sales,02-Jan-23,C2,A5,Dove,6,10,60
+sales,02-Jan-23,C2,A6,Medimix,8,10,80
+sales,02-Jan-23,C3,A1,Hamam,9,10,90
+sales,02-Jan-23,C3,A2,LUX,1,10,10
+sales,02-Jan-23,C3,A3,Park Avenue,10,10,100
+sales,02-Jan-23,C3,A4,Cinthol,10,10,100
+sales,02-Jan-23,C3,A5,Dove,7,10,70
+sales,02-Jan-23,C3,A6,Medimix,9,10,90
+sales,02-Jan-23,C4,A1,Hamam,8,10,80
+sales,02-Jan-23,C4,A2,LUX,6,10,60
+sales,02-Jan-23,C4,A3,Park Avenue,1,10,10
+sales,02-Jan-23,C4,A4,Cinthol,4,10,40
+sales,02-Jan-23,C4,A5,Dove,4,10,40
+sales,02-Jan-23,C4,A6,Medimix,3,10,30
+sales,02-Jan-23,C5,A1,Hamam,4,10,40
+sales,02-Jan-23,C5,A2,LUX,8,10,80
+sales,02-Jan-23,C5,A3,Park Avenue,9,10,90
+sales,02-Jan-23,C5,A4,Cinthol,4,10,40
+sales,02-Jan-23,C5,A5,Dove,9,10,90
+sales,02-Jan-23,C5,A6,Medimix,1,10,10
+sales,02-Jan-23,C6,A1,Hamam,5,10,50
+sales,02-Jan-23,C6,A2,LUX,7,10,70
+sales,02-Jan-23,C6,A3,Park Avenue,8,10,80
+sales,02-Jan-23,C6,A4,Cinthol,1,10,10
+sales,02-Jan-23,C6,A5,Dove,2,10,20
+sales,02-Jan-23,C6,A6,Medimix,7,10,70
+sales,02-Jan-23,C7,A1,Hamam,2,10,20
+sales,02-Jan-23,C7,A2,LUX,6,10,60
+sales,02-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,02-Jan-23,C7,A4,Cinthol,5,10,50
+sales,02-Jan-23,C7,A5,Dove,3,10,30
+sales,02-Jan-23,C7,A6,Medimix,7,10,70
+sales,02-Jan-23,C8,A1,Hamam,7,10,70
+sales,02-Jan-23,C8,A2,LUX,2,10,20
+sales,02-Jan-23,C8,A3,Park Avenue,10,10,100
+sales,02-Jan-23,C8,A4,Cinthol,3,10,30
+sales,02-Jan-23,C8,A5,Dove,1,10,10
+sales,02-Jan-23,C8,A6,Medimix,2,10,20
+sales,02-Jan-23,C9,A1,Hamam,10,10,100
+sales,02-Jan-23,C9,A2,LUX,7,10,70
+sales,02-Jan-23,C9,A3,Park Avenue,9,10,90
+sales,02-Jan-23,C9,A4,Cinthol,1,10,10
+sales,02-Jan-23,C9,A5,Dove,4,10,40
+sales,02-Jan-23,C9,A6,Medimix,1,10,10
+sales,03-Jan-23,C1,A1,Hamam,10,10,100
+sales,03-Jan-23,C1,A2,LUX,9,10,90
+sales,03-Jan-23,C1,A3,Park Avenue,10,10,100
+sales,03-Jan-23,C1,A4,Cinthol,3,10,30
+sales,03-Jan-23,C1,A5,Dove,7,10,70
+sales,03-Jan-23,C1,A6,Medimix,7,10,70
+sales,03-Jan-23,C2,A1,Hamam,8,10,80
+sales,03-Jan-23,C2,A2,LUX,3,10,30
+sales,03-Jan-23,C2,A3,Park Avenue,7,10,70
+sales,03-Jan-23,C2,A4,Cinthol,6,10,60
+sales,03-Jan-23,C2,A5,Dove,9,10,90
+sales,03-Jan-23,C2,A6,Medimix,8,10,80
+sales,03-Jan-23,C3,A1,Hamam,4,10,40
+sales,03-Jan-23,C3,A2,LUX,6,10,60
+sales,03-Jan-23,C3,A3,Park Avenue,5,10,50
+sales,03-Jan-23,C3,A4,Cinthol,7,10,70
+sales,03-Jan-23,C3,A5,Dove,7,10,70
+sales,03-Jan-23,C3,A6,Medimix,9,10,90
+sales,03-Jan-23,C4,A1,Hamam,4,10,40
+sales,03-Jan-23,C4,A2,LUX,8,10,80
+sales,03-Jan-23,C4,A3,Park Avenue,10,10,100
+sales,03-Jan-23,C4,A4,Cinthol,1,10,10
+sales,03-Jan-23,C4,A5,Dove,3,10,30
+sales,03-Jan-23,C4,A6,Medimix,4,10,40
+sales,03-Jan-23,C5,A1,Hamam,3,10,30
+sales,03-Jan-23,C5,A2,LUX,3,10,30
+sales,03-Jan-23,C5,A3,Park Avenue,2,10,20
+sales,03-Jan-23,C5,A4,Cinthol,8,10,80
+sales,03-Jan-23,C5,A5,Dove,4,10,40
+sales,03-Jan-23,C5,A6,Medimix,9,10,90
+sales,03-Jan-23,C6,A1,Hamam,8,10,80
+sales,03-Jan-23,C6,A2,LUX,6,10,60
+sales,03-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,03-Jan-23,C6,A4,Cinthol,10,10,100
+sales,03-Jan-23,C6,A5,Dove,1,10,10
+sales,03-Jan-23,C6,A6,Medimix,3,10,30
+sales,03-Jan-23,C7,A1,Hamam,2,10,20
+sales,03-Jan-23,C7,A2,LUX,10,10,100
+sales,03-Jan-23,C7,A3,Park Avenue,4,10,40
+sales,03-Jan-23,C7,A4,Cinthol,2,10,20
+sales,03-Jan-23,C7,A5,Dove,1,10,10
+sales,03-Jan-23,C7,A6,Medimix,4,10,40
+sales,03-Jan-23,C8,A1,Hamam,7,10,70
+sales,03-Jan-23,C8,A2,LUX,2,10,20
+sales,03-Jan-23,C8,A3,Park Avenue,5,10,50
+sales,03-Jan-23,C8,A4,Cinthol,3,10,30
+sales,03-Jan-23,C8,A5,Dove,9,10,90
+sales,03-Jan-23,C8,A6,Medimix,4,10,40
+sales,03-Jan-23,C9,A1,Hamam,3,10,30
+sales,03-Jan-23,C9,A2,LUX,3,10,30
+sales,03-Jan-23,C9,A3,Park Avenue,5,10,50
+sales,03-Jan-23,C9,A4,Cinthol,6,10,60
+sales,03-Jan-23,C9,A5,Dove,4,10,40
+sales,03-Jan-23,C9,A6,Medimix,3,10,30
+sales,04-Jan-23,C1,A1,Hamam,8,10,80
+sales,04-Jan-23,C1,A2,LUX,2,10,20
+sales,04-Jan-23,C1,A3,Park Avenue,7,10,70
+sales,04-Jan-23,C1,A4,Cinthol,10,10,100
+sales,04-Jan-23,C1,A5,Dove,4,10,40
+sales,04-Jan-23,C1,A6,Medimix,10,10,100
+sales,04-Jan-23,C2,A1,Hamam,10,10,100
+sales,04-Jan-23,C2,A2,LUX,1,10,10
+sales,04-Jan-23,C2,A3,Park Avenue,8,10,80
+sales,04-Jan-23,C2,A4,Cinthol,9,10,90
+sales,04-Jan-23,C2,A5,Dove,6,10,60
+sales,04-Jan-23,C2,A6,Medimix,9,10,90
+sales,04-Jan-23,C3,A1,Hamam,1,10,10
+sales,04-Jan-23,C3,A2,LUX,10,10,100
+sales,04-Jan-23,C3,A3,Park Avenue,3,10,30
+sales,04-Jan-23,C3,A4,Cinthol,1,10,10
+sales,04-Jan-23,C3,A5,Dove,10,10,100
+sales,04-Jan-23,C3,A6,Medimix,2,10,20
+sales,04-Jan-23,C4,A1,Hamam,5,10,50
+sales,04-Jan-23,C4,A2,LUX,6,10,60
+sales,04-Jan-23,C4,A3,Park Avenue,2,10,20
+sales,04-Jan-23,C4,A4,Cinthol,5,10,50
+sales,04-Jan-23,C4,A5,Dove,6,10,60
+sales,04-Jan-23,C4,A6,Medimix,8,10,80
+sales,04-Jan-23,C5,A1,Hamam,4,10,40
+sales,04-Jan-23,C5,A2,LUX,9,10,90
+sales,04-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,04-Jan-23,C5,A4,Cinthol,9,10,90
+sales,04-Jan-23,C5,A5,Dove,4,10,40
+sales,04-Jan-23,C5,A6,Medimix,9,10,90
+sales,04-Jan-23,C6,A1,Hamam,5,10,50
+sales,04-Jan-23,C6,A2,LUX,9,10,90
+sales,04-Jan-23,C6,A3,Park Avenue,8,10,80
+sales,04-Jan-23,C6,A4,Cinthol,4,10,40
+sales,04-Jan-23,C6,A5,Dove,8,10,80
+sales,04-Jan-23,C6,A6,Medimix,3,10,30
+sales,04-Jan-23,C7,A1,Hamam,10,10,100
+sales,04-Jan-23,C7,A2,LUX,10,10,100
+sales,04-Jan-23,C7,A3,Park Avenue,8,10,80
+sales,04-Jan-23,C7,A4,Cinthol,6,10,60
+sales,04-Jan-23,C7,A5,Dove,5,10,50
+sales,04-Jan-23,C7,A6,Medimix,8,10,80
+sales,04-Jan-23,C8,A1,Hamam,4,10,40
+sales,04-Jan-23,C8,A2,LUX,10,10,100
+sales,04-Jan-23,C8,A3,Park Avenue,1,10,10
+sales,04-Jan-23,C8,A4,Cinthol,8,10,80
+sales,04-Jan-23,C8,A5,Dove,4,10,40
+sales,04-Jan-23,C8,A6,Medimix,6,10,60
+sales,04-Jan-23,C9,A1,Hamam,7,10,70
+sales,04-Jan-23,C9,A2,LUX,2,10,20
+sales,04-Jan-23,C9,A3,Park Avenue,3,10,30
+sales,04-Jan-23,C9,A4,Cinthol,7,10,70
+sales,04-Jan-23,C9,A5,Dove,3,10,30
+sales,04-Jan-23,C9,A6,Medimix,10,10,100
+sales,05-Jan-23,C1,A1,Hamam,7,10,70
+sales,05-Jan-23,C1,A2,LUX,4,10,40
+sales,05-Jan-23,C1,A3,Park Avenue,6,10,60
+sales,05-Jan-23,C1,A4,Cinthol,3,10,30
+sales,05-Jan-23,C1,A5,Dove,3,10,30
+sales,05-Jan-23,C1,A6,Medimix,10,10,100
+sales,05-Jan-23,C2,A1,Hamam,10,10,100
+sales,05-Jan-23,C2,A2,LUX,7,10,70
+sales,05-Jan-23,C2,A3,Park Avenue,8,10,80
+sales,05-Jan-23,C2,A4,Cinthol,5,10,50
+sales,05-Jan-23,C2,A5,Dove,4,10,40
+sales,05-Jan-23,C2,A6,Medimix,5,10,50
+sales,05-Jan-23,C3,A1,Hamam,5,10,50
+sales,05-Jan-23,C3,A2,LUX,7,10,70
+sales,05-Jan-23,C3,A3,Park Avenue,3,10,30
+sales,05-Jan-23,C3,A4,Cinthol,5,10,50
+sales,05-Jan-23,C3,A5,Dove,7,10,70
+sales,05-Jan-23,C3,A6,Medimix,6,10,60
+sales,05-Jan-23,C4,A1,Hamam,10,10,100
+sales,05-Jan-23,C4,A2,LUX,10,10,100
+sales,05-Jan-23,C4,A3,Park Avenue,5,10,50
+sales,05-Jan-23,C4,A4,Cinthol,3,10,30
+sales,05-Jan-23,C4,A5,Dove,6,10,60
+sales,05-Jan-23,C4,A6,Medimix,4,10,40
+sales,05-Jan-23,C5,A1,Hamam,4,10,40
+sales,05-Jan-23,C5,A2,LUX,9,10,90
+sales,05-Jan-23,C5,A3,Park Avenue,7,10,70
+sales,05-Jan-23,C5,A4,Cinthol,4,10,40
+sales,05-Jan-23,C5,A5,Dove,10,10,100
+sales,05-Jan-23,C5,A6,Medimix,3,10,30
+sales,05-Jan-23,C6,A1,Hamam,2,10,20
+sales,05-Jan-23,C6,A2,LUX,10,10,100
+sales,05-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,05-Jan-23,C6,A4,Cinthol,10,10,100
+sales,05-Jan-23,C6,A5,Dove,9,10,90
+sales,05-Jan-23,C6,A6,Medimix,8,10,80
+sales,05-Jan-23,C7,A1,Hamam,1,10,10
+sales,05-Jan-23,C7,A2,LUX,1,10,10
+sales,05-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,05-Jan-23,C7,A4,Cinthol,8,10,80
+sales,05-Jan-23,C7,A5,Dove,2,10,20
+sales,05-Jan-23,C7,A6,Medimix,3,10,30
+sales,05-Jan-23,C8,A1,Hamam,10,10,100
+sales,05-Jan-23,C8,A2,LUX,2,10,20
+sales,05-Jan-23,C8,A3,Park Avenue,8,10,80
+sales,05-Jan-23,C8,A4,Cinthol,9,10,90
+sales,05-Jan-23,C8,A5,Dove,5,10,50
+sales,05-Jan-23,C8,A6,Medimix,9,10,90
+sales,05-Jan-23,C9,A1,Hamam,1,10,10
+sales,05-Jan-23,C9,A2,LUX,6,10,60
+sales,05-Jan-23,C9,A3,Park Avenue,9,10,90
+sales,05-Jan-23,C9,A4,Cinthol,10,10,100
+sales,05-Jan-23,C9,A5,Dove,2,10,20
+sales,05-Jan-23,C9,A6,Medimix,6,10,60
+sales,06-Jan-23,C1,A1,Hamam,4,10,40
+sales,06-Jan-23,C1,A2,LUX,5,10,50
+sales,06-Jan-23,C1,A3,Park Avenue,7,10,70
+sales,06-Jan-23,C1,A4,Cinthol,2,10,20
+sales,06-Jan-23,C1,A5,Dove,8,10,80
+sales,06-Jan-23,C1,A6,Medimix,7,10,70
+sales,06-Jan-23,C2,A1,Hamam,10,10,100
+sales,06-Jan-23,C2,A2,LUX,9,10,90
+sales,06-Jan-23,C2,A3,Park Avenue,10,10,100
+sales,06-Jan-23,C2,A4,Cinthol,1,10,10
+sales,06-Jan-23,C2,A5,Dove,9,10,90
+sales,06-Jan-23,C2,A6,Medimix,1,10,10
+sales,06-Jan-23,C3,A1,Hamam,10,10,100
+sales,06-Jan-23,C3,A2,LUX,8,10,80
+sales,06-Jan-23,C3,A3,Park Avenue,4,10,40
+sales,06-Jan-23,C3,A4,Cinthol,6,10,60
+sales,06-Jan-23,C3,A5,Dove,8,10,80
+sales,06-Jan-23,C3,A6,Medimix,9,10,90
+sales,06-Jan-23,C4,A1,Hamam,2,10,20
+sales,06-Jan-23,C4,A2,LUX,4,10,40
+sales,06-Jan-23,C4,A3,Park Avenue,10,10,100
+sales,06-Jan-23,C4,A4,Cinthol,1,10,10
+sales,06-Jan-23,C4,A5,Dove,7,10,70
+sales,06-Jan-23,C4,A6,Medimix,1,10,10
+sales,06-Jan-23,C5,A1,Hamam,5,10,50
+sales,06-Jan-23,C5,A2,LUX,3,10,30
+sales,06-Jan-23,C5,A3,Park Avenue,7,10,70
+sales,06-Jan-23,C5,A4,Cinthol,7,10,70
+sales,06-Jan-23,C5,A5,Dove,3,10,30
+sales,06-Jan-23,C5,A6,Medimix,9,10,90
+sales,06-Jan-23,C6,A1,Hamam,6,10,60
+sales,06-Jan-23,C6,A2,LUX,2,10,20
+sales,06-Jan-23,C6,A3,Park Avenue,5,10,50
+sales,06-Jan-23,C6,A4,Cinthol,7,10,70
+sales,06-Jan-23,C6,A5,Dove,9,10,90
+sales,06-Jan-23,C6,A6,Medimix,7,10,70
+sales,06-Jan-23,C7,A1,Hamam,7,10,70
+sales,06-Jan-23,C7,A2,LUX,2,10,20
+sales,06-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,06-Jan-23,C7,A4,Cinthol,2,10,20
+sales,06-Jan-23,C7,A5,Dove,4,10,40
+sales,06-Jan-23,C7,A6,Medimix,3,10,30
+sales,06-Jan-23,C8,A1,Hamam,4,10,40
+sales,06-Jan-23,C8,A2,LUX,4,10,40
+sales,06-Jan-23,C8,A3,Park Avenue,8,10,80
+sales,06-Jan-23,C8,A4,Cinthol,2,10,20
+sales,06-Jan-23,C8,A5,Dove,3,10,30
+sales,06-Jan-23,C8,A6,Medimix,3,10,30
+sales,06-Jan-23,C9,A1,Hamam,10,10,100
+sales,06-Jan-23,C9,A2,LUX,3,10,30
+sales,06-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,06-Jan-23,C9,A4,Cinthol,9,10,90
+sales,06-Jan-23,C9,A5,Dove,7,10,70
+sales,06-Jan-23,C9,A6,Medimix,9,10,90
+sales,07-Jan-23,C1,A1,Hamam,3,10,30
+sales,07-Jan-23,C1,A2,LUX,2,10,20
+sales,07-Jan-23,C1,A3,Park Avenue,1,10,10
+sales,07-Jan-23,C1,A4,Cinthol,7,10,70
+sales,07-Jan-23,C1,A5,Dove,1,10,10
+sales,07-Jan-23,C1,A6,Medimix,4,10,40
+sales,07-Jan-23,C2,A1,Hamam,10,10,100
+sales,07-Jan-23,C2,A2,LUX,10,10,100
+sales,07-Jan-23,C2,A3,Park Avenue,3,10,30
+sales,07-Jan-23,C2,A4,Cinthol,4,10,40
+sales,07-Jan-23,C2,A5,Dove,9,10,90
+sales,07-Jan-23,C2,A6,Medimix,3,10,30
+sales,07-Jan-23,C3,A1,Hamam,5,10,50
+sales,07-Jan-23,C3,A2,LUX,10,10,100
+sales,07-Jan-23,C3,A3,Park Avenue,8,10,80
+sales,07-Jan-23,C3,A4,Cinthol,1,10,10
+sales,07-Jan-23,C3,A5,Dove,5,10,50
+sales,07-Jan-23,C3,A6,Medimix,6,10,60
+sales,07-Jan-23,C4,A1,Hamam,2,10,20
+sales,07-Jan-23,C4,A2,LUX,4,10,40
+sales,07-Jan-23,C4,A3,Park Avenue,9,10,90
+sales,07-Jan-23,C4,A4,Cinthol,2,10,20
+sales,07-Jan-23,C4,A5,Dove,2,10,20
+sales,07-Jan-23,C4,A6,Medimix,1,10,10
+sales,07-Jan-23,C5,A1,Hamam,10,10,100
+sales,07-Jan-23,C5,A2,LUX,5,10,50
+sales,07-Jan-23,C5,A3,Park Avenue,9,10,90
+sales,07-Jan-23,C5,A4,Cinthol,7,10,70
+sales,07-Jan-23,C5,A5,Dove,1,10,10
+sales,07-Jan-23,C5,A6,Medimix,5,10,50
+sales,07-Jan-23,C6,A1,Hamam,8,10,80
+sales,07-Jan-23,C6,A2,LUX,1,10,10
+sales,07-Jan-23,C6,A3,Park Avenue,1,10,10
+sales,07-Jan-23,C6,A4,Cinthol,6,10,60
+sales,07-Jan-23,C6,A5,Dove,8,10,80
+sales,07-Jan-23,C6,A6,Medimix,7,10,70
+sales,07-Jan-23,C7,A1,Hamam,5,10,50
+sales,07-Jan-23,C7,A2,LUX,1,10,10
+sales,07-Jan-23,C7,A3,Park Avenue,1,10,10
+sales,07-Jan-23,C7,A4,Cinthol,7,10,70
+sales,07-Jan-23,C7,A5,Dove,4,10,40
+sales,07-Jan-23,C7,A6,Medimix,6,10,60
+sales,07-Jan-23,C8,A1,Hamam,2,10,20
+sales,07-Jan-23,C8,A2,LUX,4,10,40
+sales,07-Jan-23,C8,A3,Park Avenue,10,10,100
+sales,07-Jan-23,C8,A4,Cinthol,6,10,60
+sales,07-Jan-23,C8,A5,Dove,7,10,70
+sales,07-Jan-23,C8,A6,Medimix,1,10,10
+sales,07-Jan-23,C9,A1,Hamam,3,10,30
+sales,07-Jan-23,C9,A2,LUX,3,10,30
+sales,07-Jan-23,C9,A3,Park Avenue,8,10,80
+sales,07-Jan-23,C9,A4,Cinthol,1,10,10
+sales,07-Jan-23,C9,A5,Dove,2,10,20
+sales,07-Jan-23,C9,A6,Medimix,6,10,60
+sales,08-Jan-23,C1,A1,Hamam,5,10,50
+sales,08-Jan-23,C1,A2,LUX,5,10,50
+sales,08-Jan-23,C1,A3,Park Avenue,10,10,100
+sales,08-Jan-23,C1,A4,Cinthol,10,10,100
+sales,08-Jan-23,C1,A5,Dove,7,10,70
+sales,08-Jan-23,C1,A6,Medimix,7,10,70
+sales,08-Jan-23,C2,A1,Hamam,7,10,70
+sales,08-Jan-23,C2,A2,LUX,9,10,90
+sales,08-Jan-23,C2,A3,Park Avenue,2,10,20
+sales,08-Jan-23,C2,A4,Cinthol,3,10,30
+sales,08-Jan-23,C2,A5,Dove,8,10,80
+sales,08-Jan-23,C2,A6,Medimix,2,10,20
+sales,08-Jan-23,C3,A1,Hamam,4,10,40
+sales,08-Jan-23,C3,A2,LUX,7,10,70
+sales,08-Jan-23,C3,A3,Park Avenue,7,10,70
+sales,08-Jan-23,C3,A4,Cinthol,1,10,10
+sales,08-Jan-23,C3,A5,Dove,3,10,30
+sales,08-Jan-23,C3,A6,Medimix,4,10,40
+sales,08-Jan-23,C4,A1,Hamam,2,10,20
+sales,08-Jan-23,C4,A2,LUX,7,10,70
+sales,08-Jan-23,C4,A3,Park Avenue,3,10,30
+sales,08-Jan-23,C4,A4,Cinthol,3,10,30
+sales,08-Jan-23,C4,A5,Dove,2,10,20
+sales,08-Jan-23,C4,A6,Medimix,2,10,20
+sales,08-Jan-23,C5,A1,Hamam,5,10,50
+sales,08-Jan-23,C5,A2,LUX,8,10,80
+sales,08-Jan-23,C5,A3,Park Avenue,4,10,40
+sales,08-Jan-23,C5,A4,Cinthol,8,10,80
+sales,08-Jan-23,C5,A5,Dove,6,10,60
+sales,08-Jan-23,C5,A6,Medimix,4,10,40
+sales,08-Jan-23,C6,A1,Hamam,2,10,20
+sales,08-Jan-23,C6,A2,LUX,3,10,30
+sales,08-Jan-23,C6,A3,Park Avenue,6,10,60
+sales,08-Jan-23,C6,A4,Cinthol,10,10,100
+sales,08-Jan-23,C6,A5,Dove,2,10,20
+sales,08-Jan-23,C6,A6,Medimix,1,10,10
+sales,08-Jan-23,C7,A1,Hamam,1,10,10
+sales,08-Jan-23,C7,A2,LUX,4,10,40
+sales,08-Jan-23,C7,A3,Park Avenue,2,10,20
+sales,08-Jan-23,C7,A4,Cinthol,10,10,100
+sales,08-Jan-23,C7,A5,Dove,4,10,40
+sales,08-Jan-23,C7,A6,Medimix,5,10,50
+sales,08-Jan-23,C8,A1,Hamam,9,10,90
+sales,08-Jan-23,C8,A2,LUX,2,10,20
+sales,08-Jan-23,C8,A3,Park Avenue,2,10,20
+sales,08-Jan-23,C8,A4,Cinthol,1,10,10
+sales,08-Jan-23,C8,A5,Dove,10,10,100
+sales,08-Jan-23,C8,A6,Medimix,5,10,50
+sales,08-Jan-23,C9,A1,Hamam,1,10,10
+sales,08-Jan-23,C9,A2,LUX,9,10,90
+sales,08-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,08-Jan-23,C9,A4,Cinthol,1,10,10
+sales,08-Jan-23,C9,A5,Dove,4,10,40
+sales,08-Jan-23,C9,A6,Medimix,6,10,60
+sales,09-Jan-23,C1,A1,Hamam,2,10,20
+sales,09-Jan-23,C1,A2,LUX,3,10,30
+sales,09-Jan-23,C1,A3,Park Avenue,8,10,80
+sales,09-Jan-23,C1,A4,Cinthol,8,10,80
+sales,09-Jan-23,C1,A5,Dove,5,10,50
+sales,09-Jan-23,C1,A6,Medimix,5,10,50
+sales,09-Jan-23,C2,A1,Hamam,4,10,40
+sales,09-Jan-23,C2,A2,LUX,1,10,10
+sales,09-Jan-23,C2,A3,Park Avenue,10,10,100
+sales,09-Jan-23,C2,A4,Cinthol,5,10,50
+sales,09-Jan-23,C2,A5,Dove,4,10,40
+sales,09-Jan-23,C2,A6,Medimix,4,10,40
+sales,09-Jan-23,C3,A1,Hamam,1,10,10
+sales,09-Jan-23,C3,A2,LUX,4,10,40
+sales,09-Jan-23,C3,A3,Park Avenue,10,10,100
+sales,09-Jan-23,C3,A4,Cinthol,3,10,30
+sales,09-Jan-23,C3,A5,Dove,10,10,100
+sales,09-Jan-23,C3,A6,Medimix,6,10,60
+sales,09-Jan-23,C4,A1,Hamam,10,10,100
+sales,09-Jan-23,C4,A2,LUX,3,10,30
+sales,09-Jan-23,C4,A3,Park Avenue,4,10,40
+sales,09-Jan-23,C4,A4,Cinthol,9,10,90
+sales,09-Jan-23,C4,A5,Dove,9,10,90
+sales,09-Jan-23,C4,A6,Medimix,8,10,80
+sales,09-Jan-23,C5,A1,Hamam,5,10,50
+sales,09-Jan-23,C5,A2,LUX,1,10,10
+sales,09-Jan-23,C5,A3,Park Avenue,6,10,60
+sales,09-Jan-23,C5,A4,Cinthol,7,10,70
+sales,09-Jan-23,C5,A5,Dove,4,10,40
+sales,09-Jan-23,C5,A6,Medimix,7,10,70
+sales,09-Jan-23,C6,A1,Hamam,10,10,100
+sales,09-Jan-23,C6,A2,LUX,4,10,40
+sales,09-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,09-Jan-23,C6,A4,Cinthol,5,10,50
+sales,09-Jan-23,C6,A5,Dove,2,10,20
+sales,09-Jan-23,C6,A6,Medimix,5,10,50
+sales,09-Jan-23,C7,A1,Hamam,5,10,50
+sales,09-Jan-23,C7,A2,LUX,5,10,50
+sales,09-Jan-23,C7,A3,Park Avenue,4,10,40
+sales,09-Jan-23,C7,A4,Cinthol,3,10,30
+sales,09-Jan-23,C7,A5,Dove,2,10,20
+sales,09-Jan-23,C7,A6,Medimix,2,10,20
+sales,09-Jan-23,C8,A1,Hamam,8,10,80
+sales,09-Jan-23,C8,A2,LUX,6,10,60
+sales,09-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,09-Jan-23,C8,A4,Cinthol,2,10,20
+sales,09-Jan-23,C8,A5,Dove,5,10,50
+sales,09-Jan-23,C8,A6,Medimix,10,10,100
+sales,09-Jan-23,C9,A1,Hamam,1,10,10
+sales,09-Jan-23,C9,A2,LUX,10,10,100
+sales,09-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,09-Jan-23,C9,A4,Cinthol,10,10,100
+sales,09-Jan-23,C9,A5,Dove,2,10,20
+sales,09-Jan-23,C9,A6,Medimix,5,10,50
+sales,10-Jan-23,C1,A1,Hamam,1,10,10
+sales,10-Jan-23,C1,A2,LUX,2,10,20
+sales,10-Jan-23,C1,A3,Park Avenue,4,10,40
+sales,10-Jan-23,C1,A4,Cinthol,5,10,50
+sales,10-Jan-23,C1,A5,Dove,2,10,20
+sales,10-Jan-23,C1,A6,Medimix,9,10,90
+sales,10-Jan-23,C2,A1,Hamam,2,10,20
+sales,10-Jan-23,C2,A2,LUX,6,10,60
+sales,10-Jan-23,C2,A3,Park Avenue,2,10,20
+sales,10-Jan-23,C2,A4,Cinthol,4,10,40
+sales,10-Jan-23,C2,A5,Dove,4,10,40
+sales,10-Jan-23,C2,A6,Medimix,1,10,10
+sales,10-Jan-23,C3,A1,Hamam,1,10,10
+sales,10-Jan-23,C3,A2,LUX,8,10,80
+sales,10-Jan-23,C3,A3,Park Avenue,10,10,100
+sales,10-Jan-23,C3,A4,Cinthol,8,10,80
+sales,10-Jan-23,C3,A5,Dove,2,10,20
+sales,10-Jan-23,C3,A6,Medimix,3,10,30
+sales,10-Jan-23,C4,A1,Hamam,7,10,70
+sales,10-Jan-23,C4,A2,LUX,10,10,100
+sales,10-Jan-23,C4,A3,Park Avenue,4,10,40
+sales,10-Jan-23,C4,A4,Cinthol,3,10,30
+sales,10-Jan-23,C4,A5,Dove,10,10,100
+sales,10-Jan-23,C4,A6,Medimix,3,10,30
+sales,10-Jan-23,C5,A1,Hamam,3,10,30
+sales,10-Jan-23,C5,A2,LUX,4,10,40
+sales,10-Jan-23,C5,A3,Park Avenue,7,10,70
+sales,10-Jan-23,C5,A4,Cinthol,5,10,50
+sales,10-Jan-23,C5,A5,Dove,2,10,20
+sales,10-Jan-23,C5,A6,Medimix,4,10,40
+sales,10-Jan-23,C6,A1,Hamam,4,10,40
+sales,10-Jan-23,C6,A2,LUX,10,10,100
+sales,10-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,10-Jan-23,C6,A4,Cinthol,8,10,80
+sales,10-Jan-23,C6,A5,Dove,10,10,100
+sales,10-Jan-23,C6,A6,Medimix,1,10,10
+sales,10-Jan-23,C7,A1,Hamam,6,10,60
+sales,10-Jan-23,C7,A2,LUX,9,10,90
+sales,10-Jan-23,C7,A3,Park Avenue,5,10,50
+sales,10-Jan-23,C7,A4,Cinthol,10,10,100
+sales,10-Jan-23,C7,A5,Dove,10,10,100
+sales,10-Jan-23,C7,A6,Medimix,1,10,10
+sales,10-Jan-23,C8,A1,Hamam,1,10,10
+sales,10-Jan-23,C8,A2,LUX,1,10,10
+sales,10-Jan-23,C8,A3,Park Avenue,2,10,20
+sales,10-Jan-23,C8,A4,Cinthol,9,10,90
+sales,10-Jan-23,C8,A5,Dove,3,10,30
+sales,10-Jan-23,C8,A6,Medimix,10,10,100
+sales,10-Jan-23,C9,A1,Hamam,5,10,50
+sales,10-Jan-23,C9,A2,LUX,2,10,20
+sales,10-Jan-23,C9,A3,Park Avenue,4,10,40
+sales,10-Jan-23,C9,A4,Cinthol,6,10,60
+sales,10-Jan-23,C9,A5,Dove,10,10,100
+sales,10-Jan-23,C9,A6,Medimix,7,10,70
+sales,11-Jan-23,C1,A1,Hamam,6,10,60
+sales,11-Jan-23,C1,A2,LUX,6,10,60
+sales,11-Jan-23,C1,A3,Park Avenue,3,10,30
+sales,11-Jan-23,C1,A4,Cinthol,10,10,100
+sales,11-Jan-23,C1,A5,Dove,4,10,40
+sales,11-Jan-23,C1,A6,Medimix,6,10,60
+sales,11-Jan-23,C2,A1,Hamam,4,10,40
+sales,11-Jan-23,C2,A2,LUX,9,10,90
+sales,11-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,11-Jan-23,C2,A4,Cinthol,8,10,80
+sales,11-Jan-23,C2,A5,Dove,9,10,90
+sales,11-Jan-23,C2,A6,Medimix,2,10,20
+sales,11-Jan-23,C3,A1,Hamam,5,10,50
+sales,11-Jan-23,C3,A2,LUX,7,10,70
+sales,11-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,11-Jan-23,C3,A4,Cinthol,9,10,90
+sales,11-Jan-23,C3,A5,Dove,8,10,80
+sales,11-Jan-23,C3,A6,Medimix,6,10,60
+sales,11-Jan-23,C4,A1,Hamam,3,10,30
+sales,11-Jan-23,C4,A2,LUX,6,10,60
+sales,11-Jan-23,C4,A3,Park Avenue,2,10,20
+sales,11-Jan-23,C4,A4,Cinthol,2,10,20
+sales,11-Jan-23,C4,A5,Dove,6,10,60
+sales,11-Jan-23,C4,A6,Medimix,2,10,20
+sales,11-Jan-23,C5,A1,Hamam,6,10,60
+sales,11-Jan-23,C5,A2,LUX,2,10,20
+sales,11-Jan-23,C5,A3,Park Avenue,4,10,40
+sales,11-Jan-23,C5,A4,Cinthol,6,10,60
+sales,11-Jan-23,C5,A5,Dove,7,10,70
+sales,11-Jan-23,C5,A6,Medimix,9,10,90
+sales,11-Jan-23,C6,A1,Hamam,1,10,10
+sales,11-Jan-23,C6,A2,LUX,8,10,80
+sales,11-Jan-23,C6,A3,Park Avenue,1,10,10
+sales,11-Jan-23,C6,A4,Cinthol,5,10,50
+sales,11-Jan-23,C6,A5,Dove,2,10,20
+sales,11-Jan-23,C6,A6,Medimix,4,10,40
+sales,11-Jan-23,C7,A1,Hamam,5,10,50
+sales,11-Jan-23,C7,A2,LUX,3,10,30
+sales,11-Jan-23,C7,A3,Park Avenue,7,10,70
+sales,11-Jan-23,C7,A4,Cinthol,7,10,70
+sales,11-Jan-23,C7,A5,Dove,3,10,30
+sales,11-Jan-23,C7,A6,Medimix,3,10,30
+sales,11-Jan-23,C8,A1,Hamam,3,10,30
+sales,11-Jan-23,C8,A2,LUX,9,10,90
+sales,11-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,11-Jan-23,C8,A4,Cinthol,2,10,20
+sales,11-Jan-23,C8,A5,Dove,6,10,60
+sales,11-Jan-23,C8,A6,Medimix,1,10,10
+sales,11-Jan-23,C9,A1,Hamam,4,10,40
+sales,11-Jan-23,C9,A2,LUX,7,10,70
+sales,11-Jan-23,C9,A3,Park Avenue,10,10,100
+sales,11-Jan-23,C9,A4,Cinthol,8,10,80
+sales,11-Jan-23,C9,A5,Dove,9,10,90
+sales,11-Jan-23,C9,A6,Medimix,10,10,100
+sales,12-Jan-23,C1,A1,Hamam,3,10,30
+sales,12-Jan-23,C1,A2,LUX,10,10,100
+sales,12-Jan-23,C1,A3,Park Avenue,10,10,100
+sales,12-Jan-23,C1,A4,Cinthol,7,10,70
+sales,12-Jan-23,C1,A5,Dove,4,10,40
+sales,12-Jan-23,C1,A6,Medimix,4,10,40
+sales,12-Jan-23,C2,A1,Hamam,1,10,10
+sales,12-Jan-23,C2,A2,LUX,8,10,80
+sales,12-Jan-23,C2,A3,Park Avenue,1,10,10
+sales,12-Jan-23,C2,A4,Cinthol,7,10,70
+sales,12-Jan-23,C2,A5,Dove,7,10,70
+sales,12-Jan-23,C2,A6,Medimix,8,10,80
+sales,12-Jan-23,C3,A1,Hamam,8,10,80
+sales,12-Jan-23,C3,A2,LUX,9,10,90
+sales,12-Jan-23,C3,A3,Park Avenue,3,10,30
+sales,12-Jan-23,C3,A4,Cinthol,10,10,100
+sales,12-Jan-23,C3,A5,Dove,3,10,30
+sales,12-Jan-23,C3,A6,Medimix,9,10,90
+sales,12-Jan-23,C4,A1,Hamam,10,10,100
+sales,12-Jan-23,C4,A2,LUX,2,10,20
+sales,12-Jan-23,C4,A3,Park Avenue,6,10,60
+sales,12-Jan-23,C4,A4,Cinthol,1,10,10
+sales,12-Jan-23,C4,A5,Dove,1,10,10
+sales,12-Jan-23,C4,A6,Medimix,7,10,70
+sales,12-Jan-23,C5,A1,Hamam,2,10,20
+sales,12-Jan-23,C5,A2,LUX,5,10,50
+sales,12-Jan-23,C5,A3,Park Avenue,10,10,100
+sales,12-Jan-23,C5,A4,Cinthol,6,10,60
+sales,12-Jan-23,C5,A5,Dove,6,10,60
+sales,12-Jan-23,C5,A6,Medimix,4,10,40
+sales,12-Jan-23,C6,A1,Hamam,8,10,80
+sales,12-Jan-23,C6,A2,LUX,8,10,80
+sales,12-Jan-23,C6,A3,Park Avenue,7,10,70
+sales,12-Jan-23,C6,A4,Cinthol,6,10,60
+sales,12-Jan-23,C6,A5,Dove,6,10,60
+sales,12-Jan-23,C6,A6,Medimix,8,10,80
+sales,12-Jan-23,C7,A1,Hamam,5,10,50
+sales,12-Jan-23,C7,A2,LUX,9,10,90
+sales,12-Jan-23,C7,A3,Park Avenue,5,10,50
+sales,12-Jan-23,C7,A4,Cinthol,3,10,30
+sales,12-Jan-23,C7,A5,Dove,3,10,30
+sales,12-Jan-23,C7,A6,Medimix,8,10,80
+sales,12-Jan-23,C8,A1,Hamam,7,10,70
+sales,12-Jan-23,C8,A2,LUX,7,10,70
+sales,12-Jan-23,C8,A3,Park Avenue,10,10,100
+sales,12-Jan-23,C8,A4,Cinthol,8,10,80
+sales,12-Jan-23,C8,A5,Dove,2,10,20
+sales,12-Jan-23,C8,A6,Medimix,6,10,60
+sales,12-Jan-23,C9,A1,Hamam,10,10,100
+sales,12-Jan-23,C9,A2,LUX,1,10,10
+sales,12-Jan-23,C9,A3,Park Avenue,7,10,70
+sales,12-Jan-23,C9,A4,Cinthol,8,10,80
+sales,12-Jan-23,C9,A5,Dove,5,10,50
+sales,12-Jan-23,C9,A6,Medimix,7,10,70
+sales,13-Jan-23,C1,A1,Hamam,1,10,10
+sales,13-Jan-23,C1,A2,LUX,3,10,30
+sales,13-Jan-23,C1,A3,Park Avenue,9,10,90
+sales,13-Jan-23,C1,A4,Cinthol,10,10,100
+sales,13-Jan-23,C1,A5,Dove,10,10,100
+sales,13-Jan-23,C1,A6,Medimix,5,10,50
+sales,13-Jan-23,C2,A1,Hamam,5,10,50
+sales,13-Jan-23,C2,A2,LUX,6,10,60
+sales,13-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,13-Jan-23,C2,A4,Cinthol,7,10,70
+sales,13-Jan-23,C2,A5,Dove,2,10,20
+sales,13-Jan-23,C2,A6,Medimix,6,10,60
+sales,13-Jan-23,C3,A1,Hamam,4,10,40
+sales,13-Jan-23,C3,A2,LUX,8,10,80
+sales,13-Jan-23,C3,A3,Park Avenue,10,10,100
+sales,13-Jan-23,C3,A4,Cinthol,2,10,20
+sales,13-Jan-23,C3,A5,Dove,6,10,60
+sales,13-Jan-23,C3,A6,Medimix,6,10,60
+sales,13-Jan-23,C4,A1,Hamam,3,10,30
+sales,13-Jan-23,C4,A2,LUX,2,10,20
+sales,13-Jan-23,C4,A3,Park Avenue,10,10,100
+sales,13-Jan-23,C4,A4,Cinthol,4,10,40
+sales,13-Jan-23,C4,A5,Dove,8,10,80
+sales,13-Jan-23,C4,A6,Medimix,5,10,50
+sales,13-Jan-23,C5,A1,Hamam,10,10,100
+sales,13-Jan-23,C5,A2,LUX,10,10,100
+sales,13-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,13-Jan-23,C5,A4,Cinthol,2,10,20
+sales,13-Jan-23,C5,A5,Dove,2,10,20
+sales,13-Jan-23,C5,A6,Medimix,9,10,90
+sales,13-Jan-23,C6,A1,Hamam,7,10,70
+sales,13-Jan-23,C6,A2,LUX,1,10,10
+sales,13-Jan-23,C6,A3,Park Avenue,4,10,40
+sales,13-Jan-23,C6,A4,Cinthol,3,10,30
+sales,13-Jan-23,C6,A5,Dove,4,10,40
+sales,13-Jan-23,C6,A6,Medimix,6,10,60
+sales,13-Jan-23,C7,A1,Hamam,8,10,80
+sales,13-Jan-23,C7,A2,LUX,5,10,50
+sales,13-Jan-23,C7,A3,Park Avenue,1,10,10
+sales,13-Jan-23,C7,A4,Cinthol,4,10,40
+sales,13-Jan-23,C7,A5,Dove,5,10,50
+sales,13-Jan-23,C7,A6,Medimix,5,10,50
+sales,13-Jan-23,C8,A1,Hamam,9,10,90
+sales,13-Jan-23,C8,A2,LUX,6,10,60
+sales,13-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,13-Jan-23,C8,A4,Cinthol,2,10,20
+sales,13-Jan-23,C8,A5,Dove,3,10,30
+sales,13-Jan-23,C8,A6,Medimix,2,10,20
+sales,13-Jan-23,C9,A1,Hamam,4,10,40
+sales,13-Jan-23,C9,A2,LUX,6,10,60
+sales,13-Jan-23,C9,A3,Park Avenue,5,10,50
+sales,13-Jan-23,C9,A4,Cinthol,9,10,90
+sales,13-Jan-23,C9,A5,Dove,1,10,10
+sales,13-Jan-23,C9,A6,Medimix,3,10,30
+sales,14-Jan-23,C1,A1,Hamam,4,10,40
+sales,14-Jan-23,C1,A2,LUX,8,10,80
+sales,14-Jan-23,C1,A3,Park Avenue,7,10,70
+sales,14-Jan-23,C1,A4,Cinthol,3,10,30
+sales,14-Jan-23,C1,A5,Dove,7,10,70
+sales,14-Jan-23,C1,A6,Medimix,4,10,40
+sales,14-Jan-23,C2,A1,Hamam,2,10,20
+sales,14-Jan-23,C2,A2,LUX,7,10,70
+sales,14-Jan-23,C2,A3,Park Avenue,7,10,70
+sales,14-Jan-23,C2,A4,Cinthol,2,10,20
+sales,14-Jan-23,C2,A5,Dove,4,10,40
+sales,14-Jan-23,C2,A6,Medimix,4,10,40
+sales,14-Jan-23,C3,A1,Hamam,7,10,70
+sales,14-Jan-23,C3,A2,LUX,3,10,30
+sales,14-Jan-23,C3,A3,Park Avenue,4,10,40
+sales,14-Jan-23,C3,A4,Cinthol,7,10,70
+sales,14-Jan-23,C3,A5,Dove,1,10,10
+sales,14-Jan-23,C3,A6,Medimix,10,10,100
+sales,14-Jan-23,C4,A1,Hamam,2,10,20
+sales,14-Jan-23,C4,A2,LUX,6,10,60
+sales,14-Jan-23,C4,A3,Park Avenue,8,10,80
+sales,14-Jan-23,C4,A4,Cinthol,4,10,40
+sales,14-Jan-23,C4,A5,Dove,8,10,80
+sales,14-Jan-23,C4,A6,Medimix,5,10,50
+sales,14-Jan-23,C5,A1,Hamam,10,10,100
+sales,14-Jan-23,C5,A2,LUX,10,10,100
+sales,14-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,14-Jan-23,C5,A4,Cinthol,1,10,10
+sales,14-Jan-23,C5,A5,Dove,2,10,20
+sales,14-Jan-23,C5,A6,Medimix,3,10,30
+sales,14-Jan-23,C6,A1,Hamam,5,10,50
+sales,14-Jan-23,C6,A2,LUX,10,10,100
+sales,14-Jan-23,C6,A3,Park Avenue,3,10,30
+sales,14-Jan-23,C6,A4,Cinthol,8,10,80
+sales,14-Jan-23,C6,A5,Dove,4,10,40
+sales,14-Jan-23,C6,A6,Medimix,7,10,70
+sales,14-Jan-23,C7,A1,Hamam,5,10,50
+sales,14-Jan-23,C7,A2,LUX,2,10,20
+sales,14-Jan-23,C7,A3,Park Avenue,7,10,70
+sales,14-Jan-23,C7,A4,Cinthol,2,10,20
+sales,14-Jan-23,C7,A5,Dove,10,10,100
+sales,14-Jan-23,C7,A6,Medimix,6,10,60
+sales,14-Jan-23,C8,A1,Hamam,8,10,80
+sales,14-Jan-23,C8,A2,LUX,4,10,40
+sales,14-Jan-23,C8,A3,Park Avenue,5,10,50
+sales,14-Jan-23,C8,A4,Cinthol,9,10,90
+sales,14-Jan-23,C8,A5,Dove,4,10,40
+sales,14-Jan-23,C8,A6,Medimix,7,10,70
+sales,14-Jan-23,C9,A1,Hamam,7,10,70
+sales,14-Jan-23,C9,A2,LUX,3,10,30
+sales,14-Jan-23,C9,A3,Park Avenue,6,10,60
+sales,14-Jan-23,C9,A4,Cinthol,4,10,40
+sales,14-Jan-23,C9,A5,Dove,6,10,60
+sales,14-Jan-23,C9,A6,Medimix,4,10,40
+sales,15-Jan-23,C1,A1,Hamam,4,10,40
+sales,15-Jan-23,C1,A2,LUX,2,10,20
+sales,15-Jan-23,C1,A3,Park Avenue,4,10,40
+sales,15-Jan-23,C1,A4,Cinthol,10,10,100
+sales,15-Jan-23,C1,A5,Dove,4,10,40
+sales,15-Jan-23,C1,A6,Medimix,7,10,70
+sales,15-Jan-23,C2,A1,Hamam,3,10,30
+sales,15-Jan-23,C2,A2,LUX,7,10,70
+sales,15-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,15-Jan-23,C2,A4,Cinthol,3,10,30
+sales,15-Jan-23,C2,A5,Dove,4,10,40
+sales,15-Jan-23,C2,A6,Medimix,3,10,30
+sales,15-Jan-23,C3,A1,Hamam,5,10,50
+sales,15-Jan-23,C3,A2,LUX,4,10,40
+sales,15-Jan-23,C3,A3,Park Avenue,6,10,60
+sales,15-Jan-23,C3,A4,Cinthol,10,10,100
+sales,15-Jan-23,C3,A5,Dove,5,10,50
+sales,15-Jan-23,C3,A6,Medimix,10,10,100
+sales,15-Jan-23,C4,A1,Hamam,3,10,30
+sales,15-Jan-23,C4,A2,LUX,4,10,40
+sales,15-Jan-23,C4,A3,Park Avenue,9,10,90
+sales,15-Jan-23,C4,A4,Cinthol,4,10,40
+sales,15-Jan-23,C4,A5,Dove,1,10,10
+sales,15-Jan-23,C4,A6,Medimix,9,10,90
+sales,15-Jan-23,C5,A1,Hamam,7,10,70
+sales,15-Jan-23,C5,A2,LUX,1,10,10
+sales,15-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,15-Jan-23,C5,A4,Cinthol,7,10,70
+sales,15-Jan-23,C5,A5,Dove,8,10,80
+sales,15-Jan-23,C5,A6,Medimix,9,10,90
+sales,15-Jan-23,C6,A1,Hamam,5,10,50
+sales,15-Jan-23,C6,A2,LUX,5,10,50
+sales,15-Jan-23,C6,A3,Park Avenue,8,10,80
+sales,15-Jan-23,C6,A4,Cinthol,1,10,10
+sales,15-Jan-23,C6,A5,Dove,7,10,70
+sales,15-Jan-23,C6,A6,Medimix,1,10,10
+sales,15-Jan-23,C7,A1,Hamam,2,10,20
+sales,15-Jan-23,C7,A2,LUX,4,10,40
+sales,15-Jan-23,C7,A3,Park Avenue,2,10,20
+sales,15-Jan-23,C7,A4,Cinthol,8,10,80
+sales,15-Jan-23,C7,A5,Dove,3,10,30
+sales,15-Jan-23,C7,A6,Medimix,10,10,100
+sales,15-Jan-23,C8,A1,Hamam,4,10,40
+sales,15-Jan-23,C8,A2,LUX,1,10,10
+sales,15-Jan-23,C8,A3,Park Avenue,10,10,100
+sales,15-Jan-23,C8,A4,Cinthol,8,10,80
+sales,15-Jan-23,C8,A5,Dove,8,10,80
+sales,15-Jan-23,C8,A6,Medimix,9,10,90
+sales,15-Jan-23,C9,A1,Hamam,3,10,30
+sales,15-Jan-23,C9,A2,LUX,7,10,70
+sales,15-Jan-23,C9,A3,Park Avenue,4,10,40
+sales,15-Jan-23,C9,A4,Cinthol,4,10,40
+sales,15-Jan-23,C9,A5,Dove,1,10,10
+sales,15-Jan-23,C9,A6,Medimix,7,10,70
+sales,16-Jan-23,C1,A1,Hamam,6,10,60
+sales,16-Jan-23,C1,A2,LUX,6,10,60
+sales,16-Jan-23,C1,A3,Park Avenue,2,10,20
+sales,16-Jan-23,C1,A4,Cinthol,9,10,90
+sales,16-Jan-23,C1,A5,Dove,7,10,70
+sales,16-Jan-23,C1,A6,Medimix,3,10,30
+sales,16-Jan-23,C2,A1,Hamam,8,10,80
+sales,16-Jan-23,C2,A2,LUX,10,10,100
+sales,16-Jan-23,C2,A3,Park Avenue,7,10,70
+sales,16-Jan-23,C2,A4,Cinthol,8,10,80
+sales,16-Jan-23,C2,A5,Dove,3,10,30
+sales,16-Jan-23,C2,A6,Medimix,6,10,60
+sales,16-Jan-23,C3,A1,Hamam,10,10,100
+sales,16-Jan-23,C3,A2,LUX,2,10,20
+sales,16-Jan-23,C3,A3,Park Avenue,9,10,90
+sales,16-Jan-23,C3,A4,Cinthol,1,10,10
+sales,16-Jan-23,C3,A5,Dove,6,10,60
+sales,16-Jan-23,C3,A6,Medimix,10,10,100
+sales,16-Jan-23,C4,A1,Hamam,3,10,30
+sales,16-Jan-23,C4,A2,LUX,6,10,60
+sales,16-Jan-23,C4,A3,Park Avenue,1,10,10
+sales,16-Jan-23,C4,A4,Cinthol,7,10,70
+sales,16-Jan-23,C4,A5,Dove,9,10,90
+sales,16-Jan-23,C4,A6,Medimix,3,10,30
+sales,16-Jan-23,C5,A1,Hamam,8,10,80
+sales,16-Jan-23,C5,A2,LUX,7,10,70
+sales,16-Jan-23,C5,A3,Park Avenue,6,10,60
+sales,16-Jan-23,C5,A4,Cinthol,2,10,20
+sales,16-Jan-23,C5,A5,Dove,3,10,30
+sales,16-Jan-23,C5,A6,Medimix,5,10,50
+sales,16-Jan-23,C6,A1,Hamam,3,10,30
+sales,16-Jan-23,C6,A2,LUX,2,10,20
+sales,16-Jan-23,C6,A3,Park Avenue,6,10,60
+sales,16-Jan-23,C6,A4,Cinthol,9,10,90
+sales,16-Jan-23,C6,A5,Dove,6,10,60
+sales,16-Jan-23,C6,A6,Medimix,10,10,100
+sales,16-Jan-23,C7,A1,Hamam,2,10,20
+sales,16-Jan-23,C7,A2,LUX,1,10,10
+sales,16-Jan-23,C7,A3,Park Avenue,7,10,70
+sales,16-Jan-23,C7,A4,Cinthol,4,10,40
+sales,16-Jan-23,C7,A5,Dove,9,10,90
+sales,16-Jan-23,C7,A6,Medimix,9,10,90
+sales,16-Jan-23,C8,A1,Hamam,4,10,40
+sales,16-Jan-23,C8,A2,LUX,5,10,50
+sales,16-Jan-23,C8,A3,Park Avenue,5,10,50
+sales,16-Jan-23,C8,A4,Cinthol,3,10,30
+sales,16-Jan-23,C8,A5,Dove,7,10,70
+sales,16-Jan-23,C8,A6,Medimix,6,10,60
+sales,16-Jan-23,C9,A1,Hamam,1,10,10
+sales,16-Jan-23,C9,A2,LUX,10,10,100
+sales,16-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,16-Jan-23,C9,A4,Cinthol,1,10,10
+sales,16-Jan-23,C9,A5,Dove,1,10,10
+sales,16-Jan-23,C9,A6,Medimix,5,10,50
+sales,17-Jan-23,C1,A1,Hamam,8,10,80
+sales,17-Jan-23,C1,A2,LUX,9,10,90
+sales,17-Jan-23,C1,A3,Park Avenue,10,10,100
+sales,17-Jan-23,C1,A4,Cinthol,4,10,40
+sales,17-Jan-23,C1,A5,Dove,4,10,40
+sales,17-Jan-23,C1,A6,Medimix,8,10,80
+sales,17-Jan-23,C2,A1,Hamam,4,10,40
+sales,17-Jan-23,C2,A2,LUX,5,10,50
+sales,17-Jan-23,C2,A3,Park Avenue,5,10,50
+sales,17-Jan-23,C2,A4,Cinthol,10,10,100
+sales,17-Jan-23,C2,A5,Dove,4,10,40
+sales,17-Jan-23,C2,A6,Medimix,8,10,80
+sales,17-Jan-23,C3,A1,Hamam,3,10,30
+sales,17-Jan-23,C3,A2,LUX,8,10,80
+sales,17-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,17-Jan-23,C3,A4,Cinthol,9,10,90
+sales,17-Jan-23,C3,A5,Dove,4,10,40
+sales,17-Jan-23,C3,A6,Medimix,3,10,30
+sales,17-Jan-23,C4,A1,Hamam,10,10,100
+sales,17-Jan-23,C4,A2,LUX,4,10,40
+sales,17-Jan-23,C4,A3,Park Avenue,2,10,20
+sales,17-Jan-23,C4,A4,Cinthol,3,10,30
+sales,17-Jan-23,C4,A5,Dove,6,10,60
+sales,17-Jan-23,C4,A6,Medimix,4,10,40
+sales,17-Jan-23,C5,A1,Hamam,1,10,10
+sales,17-Jan-23,C5,A2,LUX,3,10,30
+sales,17-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,17-Jan-23,C5,A4,Cinthol,7,10,70
+sales,17-Jan-23,C5,A5,Dove,8,10,80
+sales,17-Jan-23,C5,A6,Medimix,10,10,100
+sales,17-Jan-23,C6,A1,Hamam,3,10,30
+sales,17-Jan-23,C6,A2,LUX,7,10,70
+sales,17-Jan-23,C6,A3,Park Avenue,3,10,30
+sales,17-Jan-23,C6,A4,Cinthol,3,10,30
+sales,17-Jan-23,C6,A5,Dove,9,10,90
+sales,17-Jan-23,C6,A6,Medimix,7,10,70
+sales,17-Jan-23,C7,A1,Hamam,4,10,40
+sales,17-Jan-23,C7,A2,LUX,4,10,40
+sales,17-Jan-23,C7,A3,Park Avenue,5,10,50
+sales,17-Jan-23,C7,A4,Cinthol,7,10,70
+sales,17-Jan-23,C7,A5,Dove,6,10,60
+sales,17-Jan-23,C7,A6,Medimix,10,10,100
+sales,17-Jan-23,C8,A1,Hamam,7,10,70
+sales,17-Jan-23,C8,A2,LUX,6,10,60
+sales,17-Jan-23,C8,A3,Park Avenue,4,10,40
+sales,17-Jan-23,C8,A4,Cinthol,2,10,20
+sales,17-Jan-23,C8,A5,Dove,3,10,30
+sales,17-Jan-23,C8,A6,Medimix,10,10,100
+sales,17-Jan-23,C9,A1,Hamam,8,10,80
+sales,17-Jan-23,C9,A2,LUX,6,10,60
+sales,17-Jan-23,C9,A3,Park Avenue,4,10,40
+sales,17-Jan-23,C9,A4,Cinthol,6,10,60
+sales,17-Jan-23,C9,A5,Dove,10,10,100
+sales,17-Jan-23,C9,A6,Medimix,6,10,60
+sales,18-Jan-23,C1,A1,Hamam,6,10,60
+sales,18-Jan-23,C1,A2,LUX,10,10,100
+sales,18-Jan-23,C1,A3,Park Avenue,6,10,60
+sales,18-Jan-23,C1,A4,Cinthol,6,10,60
+sales,18-Jan-23,C1,A5,Dove,3,10,30
+sales,18-Jan-23,C1,A6,Medimix,4,10,40
+sales,18-Jan-23,C2,A1,Hamam,5,10,50
+sales,18-Jan-23,C2,A2,LUX,3,10,30
+sales,18-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,18-Jan-23,C2,A4,Cinthol,10,10,100
+sales,18-Jan-23,C2,A5,Dove,4,10,40
+sales,18-Jan-23,C2,A6,Medimix,3,10,30
+sales,18-Jan-23,C3,A1,Hamam,2,10,20
+sales,18-Jan-23,C3,A2,LUX,10,10,100
+sales,18-Jan-23,C3,A3,Park Avenue,9,10,90
+sales,18-Jan-23,C3,A4,Cinthol,1,10,10
+sales,18-Jan-23,C3,A5,Dove,1,10,10
+sales,18-Jan-23,C3,A6,Medimix,10,10,100
+sales,18-Jan-23,C4,A1,Hamam,4,10,40
+sales,18-Jan-23,C4,A2,LUX,5,10,50
+sales,18-Jan-23,C4,A3,Park Avenue,6,10,60
+sales,18-Jan-23,C4,A4,Cinthol,7,10,70
+sales,18-Jan-23,C4,A5,Dove,7,10,70
+sales,18-Jan-23,C4,A6,Medimix,10,10,100
+sales,18-Jan-23,C5,A1,Hamam,10,10,100
+sales,18-Jan-23,C5,A2,LUX,9,10,90
+sales,18-Jan-23,C5,A3,Park Avenue,1,10,10
+sales,18-Jan-23,C5,A4,Cinthol,5,10,50
+sales,18-Jan-23,C5,A5,Dove,9,10,90
+sales,18-Jan-23,C5,A6,Medimix,2,10,20
+sales,18-Jan-23,C6,A1,Hamam,9,10,90
+sales,18-Jan-23,C6,A2,LUX,8,10,80
+sales,18-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,18-Jan-23,C6,A4,Cinthol,10,10,100
+sales,18-Jan-23,C6,A5,Dove,9,10,90
+sales,18-Jan-23,C6,A6,Medimix,2,10,20
+sales,18-Jan-23,C7,A1,Hamam,4,10,40
+sales,18-Jan-23,C7,A2,LUX,6,10,60
+sales,18-Jan-23,C7,A3,Park Avenue,1,10,10
+sales,18-Jan-23,C7,A4,Cinthol,1,10,10
+sales,18-Jan-23,C7,A5,Dove,10,10,100
+sales,18-Jan-23,C7,A6,Medimix,1,10,10
+sales,18-Jan-23,C8,A1,Hamam,7,10,70
+sales,18-Jan-23,C8,A2,LUX,6,10,60
+sales,18-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,18-Jan-23,C8,A4,Cinthol,3,10,30
+sales,18-Jan-23,C8,A5,Dove,8,10,80
+sales,18-Jan-23,C8,A6,Medimix,10,10,100
+sales,18-Jan-23,C9,A1,Hamam,6,10,60
+sales,18-Jan-23,C9,A2,LUX,9,10,90
+sales,18-Jan-23,C9,A3,Park Avenue,7,10,70
+sales,18-Jan-23,C9,A4,Cinthol,6,10,60
+sales,18-Jan-23,C9,A5,Dove,7,10,70
+sales,18-Jan-23,C9,A6,Medimix,6,10,60
+sales,19-Jan-23,C1,A1,Hamam,9,10,90
+sales,19-Jan-23,C1,A2,LUX,5,10,50
+sales,19-Jan-23,C1,A3,Park Avenue,6,10,60
+sales,19-Jan-23,C1,A4,Cinthol,9,10,90
+sales,19-Jan-23,C1,A5,Dove,3,10,30
+sales,19-Jan-23,C1,A6,Medimix,6,10,60
+sales,19-Jan-23,C2,A1,Hamam,4,10,40
+sales,19-Jan-23,C2,A2,LUX,9,10,90
+sales,19-Jan-23,C2,A3,Park Avenue,5,10,50
+sales,19-Jan-23,C2,A4,Cinthol,3,10,30
+sales,19-Jan-23,C2,A5,Dove,4,10,40
+sales,19-Jan-23,C2,A6,Medimix,4,10,40
+sales,19-Jan-23,C3,A1,Hamam,9,10,90
+sales,19-Jan-23,C3,A2,LUX,4,10,40
+sales,19-Jan-23,C3,A3,Park Avenue,6,10,60
+sales,19-Jan-23,C3,A4,Cinthol,9,10,90
+sales,19-Jan-23,C3,A5,Dove,6,10,60
+sales,19-Jan-23,C3,A6,Medimix,9,10,90
+sales,19-Jan-23,C4,A1,Hamam,4,10,40
+sales,19-Jan-23,C4,A2,LUX,7,10,70
+sales,19-Jan-23,C4,A3,Park Avenue,9,10,90
+sales,19-Jan-23,C4,A4,Cinthol,4,10,40
+sales,19-Jan-23,C4,A5,Dove,4,10,40
+sales,19-Jan-23,C4,A6,Medimix,7,10,70
+sales,19-Jan-23,C5,A1,Hamam,3,10,30
+sales,19-Jan-23,C5,A2,LUX,6,10,60
+sales,19-Jan-23,C5,A3,Park Avenue,5,10,50
+sales,19-Jan-23,C5,A4,Cinthol,7,10,70
+sales,19-Jan-23,C5,A5,Dove,8,10,80
+sales,19-Jan-23,C5,A6,Medimix,7,10,70
+sales,19-Jan-23,C6,A1,Hamam,10,10,100
+sales,19-Jan-23,C6,A2,LUX,7,10,70
+sales,19-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,19-Jan-23,C6,A4,Cinthol,2,10,20
+sales,19-Jan-23,C6,A5,Dove,8,10,80
+sales,19-Jan-23,C6,A6,Medimix,9,10,90
+sales,19-Jan-23,C7,A1,Hamam,1,10,10
+sales,19-Jan-23,C7,A2,LUX,10,10,100
+sales,19-Jan-23,C7,A3,Park Avenue,7,10,70
+sales,19-Jan-23,C7,A4,Cinthol,3,10,30
+sales,19-Jan-23,C7,A5,Dove,10,10,100
+sales,19-Jan-23,C7,A6,Medimix,9,10,90
+sales,19-Jan-23,C8,A1,Hamam,1,10,10
+sales,19-Jan-23,C8,A2,LUX,2,10,20
+sales,19-Jan-23,C8,A3,Park Avenue,8,10,80
+sales,19-Jan-23,C8,A4,Cinthol,1,10,10
+sales,19-Jan-23,C8,A5,Dove,7,10,70
+sales,19-Jan-23,C8,A6,Medimix,4,10,40
+sales,19-Jan-23,C9,A1,Hamam,7,10,70
+sales,19-Jan-23,C9,A2,LUX,7,10,70
+sales,19-Jan-23,C9,A3,Park Avenue,3,10,30
+sales,19-Jan-23,C9,A4,Cinthol,8,10,80
+sales,19-Jan-23,C9,A5,Dove,1,10,10
+sales,19-Jan-23,C9,A6,Medimix,2,10,20
+sales,20-Jan-23,C1,A1,Hamam,2,10,20
+sales,20-Jan-23,C1,A2,LUX,5,10,50
+sales,20-Jan-23,C1,A3,Park Avenue,4,10,40
+sales,20-Jan-23,C1,A4,Cinthol,1,10,10
+sales,20-Jan-23,C1,A5,Dove,4,10,40
+sales,20-Jan-23,C1,A6,Medimix,4,10,40
+sales,20-Jan-23,C2,A1,Hamam,1,10,10
+sales,20-Jan-23,C2,A2,LUX,5,10,50
+sales,20-Jan-23,C2,A3,Park Avenue,6,10,60
+sales,20-Jan-23,C2,A4,Cinthol,7,10,70
+sales,20-Jan-23,C2,A5,Dove,9,10,90
+sales,20-Jan-23,C2,A6,Medimix,10,10,100
+sales,20-Jan-23,C3,A1,Hamam,2,10,20
+sales,20-Jan-23,C3,A2,LUX,9,10,90
+sales,20-Jan-23,C3,A3,Park Avenue,8,10,80
+sales,20-Jan-23,C3,A4,Cinthol,1,10,10
+sales,20-Jan-23,C3,A5,Dove,1,10,10
+sales,20-Jan-23,C3,A6,Medimix,8,10,80
+sales,20-Jan-23,C4,A1,Hamam,3,10,30
+sales,20-Jan-23,C4,A2,LUX,2,10,20
+sales,20-Jan-23,C4,A3,Park Avenue,4,10,40
+sales,20-Jan-23,C4,A4,Cinthol,5,10,50
+sales,20-Jan-23,C4,A5,Dove,9,10,90
+sales,20-Jan-23,C4,A6,Medimix,3,10,30
+sales,20-Jan-23,C5,A1,Hamam,10,10,100
+sales,20-Jan-23,C5,A2,LUX,8,10,80
+sales,20-Jan-23,C5,A3,Park Avenue,6,10,60
+sales,20-Jan-23,C5,A4,Cinthol,1,10,10
+sales,20-Jan-23,C5,A5,Dove,10,10,100
+sales,20-Jan-23,C5,A6,Medimix,1,10,10
+sales,20-Jan-23,C6,A1,Hamam,4,10,40
+sales,20-Jan-23,C6,A2,LUX,1,10,10
+sales,20-Jan-23,C6,A3,Park Avenue,6,10,60
+sales,20-Jan-23,C6,A4,Cinthol,2,10,20
+sales,20-Jan-23,C6,A5,Dove,4,10,40
+sales,20-Jan-23,C6,A6,Medimix,8,10,80
+sales,20-Jan-23,C7,A1,Hamam,10,10,100
+sales,20-Jan-23,C7,A2,LUX,2,10,20
+sales,20-Jan-23,C7,A3,Park Avenue,9,10,90
+sales,20-Jan-23,C7,A4,Cinthol,1,10,10
+sales,20-Jan-23,C7,A5,Dove,6,10,60
+sales,20-Jan-23,C7,A6,Medimix,8,10,80
+sales,20-Jan-23,C8,A1,Hamam,5,10,50
+sales,20-Jan-23,C8,A2,LUX,4,10,40
+sales,20-Jan-23,C8,A3,Park Avenue,3,10,30
+sales,20-Jan-23,C8,A4,Cinthol,1,10,10
+sales,20-Jan-23,C8,A5,Dove,10,10,100
+sales,20-Jan-23,C8,A6,Medimix,4,10,40
+sales,20-Jan-23,C9,A1,Hamam,6,10,60
+sales,20-Jan-23,C9,A2,LUX,4,10,40
+sales,20-Jan-23,C9,A3,Park Avenue,5,10,50
+sales,20-Jan-23,C9,A4,Cinthol,2,10,20
+sales,20-Jan-23,C9,A5,Dove,8,10,80
+sales,20-Jan-23,C9,A6,Medimix,8,10,80
+sales,21-Jan-23,C1,A1,Hamam,9,10,90
+sales,21-Jan-23,C1,A2,LUX,3,10,30
+sales,21-Jan-23,C1,A3,Park Avenue,2,10,20
+sales,21-Jan-23,C1,A4,Cinthol,7,10,70
+sales,21-Jan-23,C1,A5,Dove,10,10,100
+sales,21-Jan-23,C1,A6,Medimix,5,10,50
+sales,21-Jan-23,C2,A1,Hamam,1,10,10
+sales,21-Jan-23,C2,A2,LUX,10,10,100
+sales,21-Jan-23,C2,A3,Park Avenue,2,10,20
+sales,21-Jan-23,C2,A4,Cinthol,9,10,90
+sales,21-Jan-23,C2,A5,Dove,8,10,80
+sales,21-Jan-23,C2,A6,Medimix,2,10,20
+sales,21-Jan-23,C3,A1,Hamam,10,10,100
+sales,21-Jan-23,C3,A2,LUX,8,10,80
+sales,21-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,21-Jan-23,C3,A4,Cinthol,3,10,30
+sales,21-Jan-23,C3,A5,Dove,3,10,30
+sales,21-Jan-23,C3,A6,Medimix,2,10,20
+sales,21-Jan-23,C4,A1,Hamam,5,10,50
+sales,21-Jan-23,C4,A2,LUX,4,10,40
+sales,21-Jan-23,C4,A3,Park Avenue,6,10,60
+sales,21-Jan-23,C4,A4,Cinthol,9,10,90
+sales,21-Jan-23,C4,A5,Dove,10,10,100
+sales,21-Jan-23,C4,A6,Medimix,1,10,10
+sales,21-Jan-23,C5,A1,Hamam,1,10,10
+sales,21-Jan-23,C5,A2,LUX,8,10,80
+sales,21-Jan-23,C5,A3,Park Avenue,3,10,30
+sales,21-Jan-23,C5,A4,Cinthol,9,10,90
+sales,21-Jan-23,C5,A5,Dove,8,10,80
+sales,21-Jan-23,C5,A6,Medimix,3,10,30
+sales,21-Jan-23,C6,A1,Hamam,7,10,70
+sales,21-Jan-23,C6,A2,LUX,8,10,80
+sales,21-Jan-23,C6,A3,Park Avenue,5,10,50
+sales,21-Jan-23,C6,A4,Cinthol,3,10,30
+sales,21-Jan-23,C6,A5,Dove,1,10,10
+sales,21-Jan-23,C6,A6,Medimix,7,10,70
+sales,21-Jan-23,C7,A1,Hamam,8,10,80
+sales,21-Jan-23,C7,A2,LUX,9,10,90
+sales,21-Jan-23,C7,A3,Park Avenue,5,10,50
+sales,21-Jan-23,C7,A4,Cinthol,2,10,20
+sales,21-Jan-23,C7,A5,Dove,3,10,30
+sales,21-Jan-23,C7,A6,Medimix,1,10,10
+sales,21-Jan-23,C8,A1,Hamam,5,10,50
+sales,21-Jan-23,C8,A2,LUX,8,10,80
+sales,21-Jan-23,C8,A3,Park Avenue,3,10,30
+sales,21-Jan-23,C8,A4,Cinthol,4,10,40
+sales,21-Jan-23,C8,A5,Dove,1,10,10
+sales,21-Jan-23,C8,A6,Medimix,5,10,50
+sales,21-Jan-23,C9,A1,Hamam,7,10,70
+sales,21-Jan-23,C9,A2,LUX,6,10,60
+sales,21-Jan-23,C9,A3,Park Avenue,8,10,80
+sales,21-Jan-23,C9,A4,Cinthol,6,10,60
+sales,21-Jan-23,C9,A5,Dove,3,10,30
+sales,21-Jan-23,C9,A6,Medimix,5,10,50
+sales,22-Jan-23,C1,A1,Hamam,7,10,70
+sales,22-Jan-23,C1,A2,LUX,9,10,90
+sales,22-Jan-23,C1,A3,Park Avenue,4,10,40
+sales,22-Jan-23,C1,A4,Cinthol,1,10,10
+sales,22-Jan-23,C1,A5,Dove,5,10,50
+sales,22-Jan-23,C1,A6,Medimix,7,10,70
+sales,22-Jan-23,C2,A1,Hamam,1,10,10
+sales,22-Jan-23,C2,A2,LUX,9,10,90
+sales,22-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,22-Jan-23,C2,A4,Cinthol,7,10,70
+sales,22-Jan-23,C2,A5,Dove,5,10,50
+sales,22-Jan-23,C2,A6,Medimix,3,10,30
+sales,22-Jan-23,C3,A1,Hamam,9,10,90
+sales,22-Jan-23,C3,A2,LUX,5,10,50
+sales,22-Jan-23,C3,A3,Park Avenue,8,10,80
+sales,22-Jan-23,C3,A4,Cinthol,9,10,90
+sales,22-Jan-23,C3,A5,Dove,5,10,50
+sales,22-Jan-23,C3,A6,Medimix,1,10,10
+sales,22-Jan-23,C4,A1,Hamam,6,10,60
+sales,22-Jan-23,C4,A2,LUX,6,10,60
+sales,22-Jan-23,C4,A3,Park Avenue,8,10,80
+sales,22-Jan-23,C4,A4,Cinthol,1,10,10
+sales,22-Jan-23,C4,A5,Dove,7,10,70
+sales,22-Jan-23,C4,A6,Medimix,10,10,100
+sales,22-Jan-23,C5,A1,Hamam,4,10,40
+sales,22-Jan-23,C5,A2,LUX,4,10,40
+sales,22-Jan-23,C5,A3,Park Avenue,4,10,40
+sales,22-Jan-23,C5,A4,Cinthol,3,10,30
+sales,22-Jan-23,C5,A5,Dove,5,10,50
+sales,22-Jan-23,C5,A6,Medimix,10,10,100
+sales,22-Jan-23,C6,A1,Hamam,8,10,80
+sales,22-Jan-23,C6,A2,LUX,9,10,90
+sales,22-Jan-23,C6,A3,Park Avenue,3,10,30
+sales,22-Jan-23,C6,A4,Cinthol,9,10,90
+sales,22-Jan-23,C6,A5,Dove,7,10,70
+sales,22-Jan-23,C6,A6,Medimix,1,10,10
+sales,22-Jan-23,C7,A1,Hamam,10,10,100
+sales,22-Jan-23,C7,A2,LUX,1,10,10
+sales,22-Jan-23,C7,A3,Park Avenue,8,10,80
+sales,22-Jan-23,C7,A4,Cinthol,2,10,20
+sales,22-Jan-23,C7,A5,Dove,8,10,80
+sales,22-Jan-23,C7,A6,Medimix,5,10,50
+sales,22-Jan-23,C8,A1,Hamam,3,10,30
+sales,22-Jan-23,C8,A2,LUX,5,10,50
+sales,22-Jan-23,C8,A3,Park Avenue,1,10,10
+sales,22-Jan-23,C8,A4,Cinthol,6,10,60
+sales,22-Jan-23,C8,A5,Dove,9,10,90
+sales,22-Jan-23,C8,A6,Medimix,9,10,90
+sales,22-Jan-23,C9,A1,Hamam,3,10,30
+sales,22-Jan-23,C9,A2,LUX,6,10,60
+sales,22-Jan-23,C9,A3,Park Avenue,8,10,80
+sales,22-Jan-23,C9,A4,Cinthol,3,10,30
+sales,22-Jan-23,C9,A5,Dove,8,10,80
+sales,22-Jan-23,C9,A6,Medimix,10,10,100
+sales,23-Jan-23,C1,A1,Hamam,4,10,40
+sales,23-Jan-23,C1,A2,LUX,8,10,80
+sales,23-Jan-23,C1,A3,Park Avenue,2,10,20
+sales,23-Jan-23,C1,A4,Cinthol,9,10,90
+sales,23-Jan-23,C1,A5,Dove,6,10,60
+sales,23-Jan-23,C1,A6,Medimix,5,10,50
+sales,23-Jan-23,C2,A1,Hamam,2,10,20
+sales,23-Jan-23,C2,A2,LUX,2,10,20
+sales,23-Jan-23,C2,A3,Park Avenue,3,10,30
+sales,23-Jan-23,C2,A4,Cinthol,8,10,80
+sales,23-Jan-23,C2,A5,Dove,3,10,30
+sales,23-Jan-23,C2,A6,Medimix,1,10,10
+sales,23-Jan-23,C3,A1,Hamam,7,10,70
+sales,23-Jan-23,C3,A2,LUX,3,10,30
+sales,23-Jan-23,C3,A3,Park Avenue,8,10,80
+sales,23-Jan-23,C3,A4,Cinthol,10,10,100
+sales,23-Jan-23,C3,A5,Dove,10,10,100
+sales,23-Jan-23,C3,A6,Medimix,10,10,100
+sales,23-Jan-23,C4,A1,Hamam,9,10,90
+sales,23-Jan-23,C4,A2,LUX,7,10,70
+sales,23-Jan-23,C4,A3,Park Avenue,10,10,100
+sales,23-Jan-23,C4,A4,Cinthol,5,10,50
+sales,23-Jan-23,C4,A5,Dove,1,10,10
+sales,23-Jan-23,C4,A6,Medimix,1,10,10
+sales,23-Jan-23,C5,A1,Hamam,7,10,70
+sales,23-Jan-23,C5,A2,LUX,9,10,90
+sales,23-Jan-23,C5,A3,Park Avenue,6,10,60
+sales,23-Jan-23,C5,A4,Cinthol,5,10,50
+sales,23-Jan-23,C5,A5,Dove,4,10,40
+sales,23-Jan-23,C5,A6,Medimix,6,10,60
+sales,23-Jan-23,C6,A1,Hamam,3,10,30
+sales,23-Jan-23,C6,A2,LUX,6,10,60
+sales,23-Jan-23,C6,A3,Park Avenue,9,10,90
+sales,23-Jan-23,C6,A4,Cinthol,3,10,30
+sales,23-Jan-23,C6,A5,Dove,5,10,50
+sales,23-Jan-23,C6,A6,Medimix,4,10,40
+sales,23-Jan-23,C7,A1,Hamam,3,10,30
+sales,23-Jan-23,C7,A2,LUX,9,10,90
+sales,23-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,23-Jan-23,C7,A4,Cinthol,4,10,40
+sales,23-Jan-23,C7,A5,Dove,8,10,80
+sales,23-Jan-23,C7,A6,Medimix,4,10,40
+sales,23-Jan-23,C8,A1,Hamam,9,10,90
+sales,23-Jan-23,C8,A2,LUX,1,10,10
+sales,23-Jan-23,C8,A3,Park Avenue,3,10,30
+sales,23-Jan-23,C8,A4,Cinthol,6,10,60
+sales,23-Jan-23,C8,A5,Dove,10,10,100
+sales,23-Jan-23,C8,A6,Medimix,3,10,30
+sales,23-Jan-23,C9,A1,Hamam,2,10,20
+sales,23-Jan-23,C9,A2,LUX,7,10,70
+sales,23-Jan-23,C9,A3,Park Avenue,4,10,40
+sales,23-Jan-23,C9,A4,Cinthol,7,10,70
+sales,23-Jan-23,C9,A5,Dove,5,10,50
+sales,23-Jan-23,C9,A6,Medimix,7,10,70
+sales,24-Jan-23,C1,A1,Hamam,8,10,80
+sales,24-Jan-23,C1,A2,LUX,4,10,40
+sales,24-Jan-23,C1,A3,Park Avenue,9,10,90
+sales,24-Jan-23,C1,A4,Cinthol,6,10,60
+sales,24-Jan-23,C1,A5,Dove,8,10,80
+sales,24-Jan-23,C1,A6,Medimix,5,10,50
+sales,24-Jan-23,C2,A1,Hamam,2,10,20
+sales,24-Jan-23,C2,A2,LUX,8,10,80
+sales,24-Jan-23,C2,A3,Park Avenue,6,10,60
+sales,24-Jan-23,C2,A4,Cinthol,3,10,30
+sales,24-Jan-23,C2,A5,Dove,4,10,40
+sales,24-Jan-23,C2,A6,Medimix,10,10,100
+sales,24-Jan-23,C3,A1,Hamam,10,10,100
+sales,24-Jan-23,C3,A2,LUX,10,10,100
+sales,24-Jan-23,C3,A3,Park Avenue,9,10,90
+sales,24-Jan-23,C3,A4,Cinthol,2,10,20
+sales,24-Jan-23,C3,A5,Dove,10,10,100
+sales,24-Jan-23,C3,A6,Medimix,1,10,10
+sales,24-Jan-23,C4,A1,Hamam,10,10,100
+sales,24-Jan-23,C4,A2,LUX,5,10,50
+sales,24-Jan-23,C4,A3,Park Avenue,10,10,100
+sales,24-Jan-23,C4,A4,Cinthol,10,10,100
+sales,24-Jan-23,C4,A5,Dove,4,10,40
+sales,24-Jan-23,C4,A6,Medimix,1,10,10
+sales,24-Jan-23,C5,A1,Hamam,8,10,80
+sales,24-Jan-23,C5,A2,LUX,8,10,80
+sales,24-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,24-Jan-23,C5,A4,Cinthol,1,10,10
+sales,24-Jan-23,C5,A5,Dove,2,10,20
+sales,24-Jan-23,C5,A6,Medimix,5,10,50
+sales,24-Jan-23,C6,A1,Hamam,3,10,30
+sales,24-Jan-23,C6,A2,LUX,4,10,40
+sales,24-Jan-23,C6,A3,Park Avenue,1,10,10
+sales,24-Jan-23,C6,A4,Cinthol,7,10,70
+sales,24-Jan-23,C6,A5,Dove,1,10,10
+sales,24-Jan-23,C6,A6,Medimix,3,10,30
+sales,24-Jan-23,C7,A1,Hamam,8,10,80
+sales,24-Jan-23,C7,A2,LUX,2,10,20
+sales,24-Jan-23,C7,A3,Park Avenue,1,10,10
+sales,24-Jan-23,C7,A4,Cinthol,2,10,20
+sales,24-Jan-23,C7,A5,Dove,4,10,40
+sales,24-Jan-23,C7,A6,Medimix,3,10,30
+sales,24-Jan-23,C8,A1,Hamam,2,10,20
+sales,24-Jan-23,C8,A2,LUX,9,10,90
+sales,24-Jan-23,C8,A3,Park Avenue,2,10,20
+sales,24-Jan-23,C8,A4,Cinthol,5,10,50
+sales,24-Jan-23,C8,A5,Dove,7,10,70
+sales,24-Jan-23,C8,A6,Medimix,2,10,20
+sales,24-Jan-23,C9,A1,Hamam,8,10,80
+sales,24-Jan-23,C9,A2,LUX,3,10,30
+sales,24-Jan-23,C9,A3,Park Avenue,1,10,10
+sales,24-Jan-23,C9,A4,Cinthol,5,10,50
+sales,24-Jan-23,C9,A5,Dove,4,10,40
+sales,24-Jan-23,C9,A6,Medimix,3,10,30
+sales,25-Jan-23,C1,A1,Hamam,6,10,60
+sales,25-Jan-23,C1,A2,LUX,10,10,100
+sales,25-Jan-23,C1,A3,Park Avenue,7,10,70
+sales,25-Jan-23,C1,A4,Cinthol,4,10,40
+sales,25-Jan-23,C1,A5,Dove,7,10,70
+sales,25-Jan-23,C1,A6,Medimix,4,10,40
+sales,25-Jan-23,C2,A1,Hamam,8,10,80
+sales,25-Jan-23,C2,A2,LUX,9,10,90
+sales,25-Jan-23,C2,A3,Park Avenue,7,10,70
+sales,25-Jan-23,C2,A4,Cinthol,10,10,100
+sales,25-Jan-23,C2,A5,Dove,4,10,40
+sales,25-Jan-23,C2,A6,Medimix,3,10,30
+sales,25-Jan-23,C3,A1,Hamam,5,10,50
+sales,25-Jan-23,C3,A2,LUX,6,10,60
+sales,25-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,25-Jan-23,C3,A4,Cinthol,3,10,30
+sales,25-Jan-23,C3,A5,Dove,7,10,70
+sales,25-Jan-23,C3,A6,Medimix,9,10,90
+sales,25-Jan-23,C4,A1,Hamam,1,10,10
+sales,25-Jan-23,C4,A2,LUX,5,10,50
+sales,25-Jan-23,C4,A3,Park Avenue,6,10,60
+sales,25-Jan-23,C4,A4,Cinthol,4,10,40
+sales,25-Jan-23,C4,A5,Dove,1,10,10
+sales,25-Jan-23,C4,A6,Medimix,7,10,70
+sales,25-Jan-23,C5,A1,Hamam,10,10,100
+sales,25-Jan-23,C5,A2,LUX,1,10,10
+sales,25-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,25-Jan-23,C5,A4,Cinthol,2,10,20
+sales,25-Jan-23,C5,A5,Dove,2,10,20
+sales,25-Jan-23,C5,A6,Medimix,2,10,20
+sales,25-Jan-23,C6,A1,Hamam,3,10,30
+sales,25-Jan-23,C6,A2,LUX,3,10,30
+sales,25-Jan-23,C6,A3,Park Avenue,10,10,100
+sales,25-Jan-23,C6,A4,Cinthol,5,10,50
+sales,25-Jan-23,C6,A5,Dove,10,10,100
+sales,25-Jan-23,C6,A6,Medimix,6,10,60
+sales,25-Jan-23,C7,A1,Hamam,9,10,90
+sales,25-Jan-23,C7,A2,LUX,1,10,10
+sales,25-Jan-23,C7,A3,Park Avenue,3,10,30
+sales,25-Jan-23,C7,A4,Cinthol,3,10,30
+sales,25-Jan-23,C7,A5,Dove,10,10,100
+sales,25-Jan-23,C7,A6,Medimix,9,10,90
+sales,25-Jan-23,C8,A1,Hamam,8,10,80
+sales,25-Jan-23,C8,A2,LUX,8,10,80
+sales,25-Jan-23,C8,A3,Park Avenue,8,10,80
+sales,25-Jan-23,C8,A4,Cinthol,6,10,60
+sales,25-Jan-23,C8,A5,Dove,10,10,100
+sales,25-Jan-23,C8,A6,Medimix,3,10,30
+sales,25-Jan-23,C9,A1,Hamam,10,10,100
+sales,25-Jan-23,C9,A2,LUX,4,10,40
+sales,25-Jan-23,C9,A3,Park Avenue,6,10,60
+sales,25-Jan-23,C9,A4,Cinthol,9,10,90
+sales,25-Jan-23,C9,A5,Dove,2,10,20
+sales,25-Jan-23,C9,A6,Medimix,6,10,60
+sales,26-Jan-23,C1,A1,Hamam,10,10,100
+sales,26-Jan-23,C1,A2,LUX,3,10,30
+sales,26-Jan-23,C1,A3,Park Avenue,6,10,60
+sales,26-Jan-23,C1,A4,Cinthol,6,10,60
+sales,26-Jan-23,C1,A5,Dove,2,10,20
+sales,26-Jan-23,C1,A6,Medimix,8,10,80
+sales,26-Jan-23,C2,A1,Hamam,2,10,20
+sales,26-Jan-23,C2,A2,LUX,1,10,10
+sales,26-Jan-23,C2,A3,Park Avenue,3,10,30
+sales,26-Jan-23,C2,A4,Cinthol,6,10,60
+sales,26-Jan-23,C2,A5,Dove,9,10,90
+sales,26-Jan-23,C2,A6,Medimix,10,10,100
+sales,26-Jan-23,C3,A1,Hamam,7,10,70
+sales,26-Jan-23,C3,A2,LUX,10,10,100
+sales,26-Jan-23,C3,A3,Park Avenue,8,10,80
+sales,26-Jan-23,C3,A4,Cinthol,9,10,90
+sales,26-Jan-23,C3,A5,Dove,5,10,50
+sales,26-Jan-23,C3,A6,Medimix,1,10,10
+sales,26-Jan-23,C4,A1,Hamam,8,10,80
+sales,26-Jan-23,C4,A2,LUX,6,10,60
+sales,26-Jan-23,C4,A3,Park Avenue,8,10,80
+sales,26-Jan-23,C4,A4,Cinthol,5,10,50
+sales,26-Jan-23,C4,A5,Dove,10,10,100
+sales,26-Jan-23,C4,A6,Medimix,8,10,80
+sales,26-Jan-23,C5,A1,Hamam,9,10,90
+sales,26-Jan-23,C5,A2,LUX,4,10,40
+sales,26-Jan-23,C5,A3,Park Avenue,10,10,100
+sales,26-Jan-23,C5,A4,Cinthol,9,10,90
+sales,26-Jan-23,C5,A5,Dove,2,10,20
+sales,26-Jan-23,C5,A6,Medimix,1,10,10
+sales,26-Jan-23,C6,A1,Hamam,5,10,50
+sales,26-Jan-23,C6,A2,LUX,8,10,80
+sales,26-Jan-23,C6,A3,Park Avenue,9,10,90
+sales,26-Jan-23,C6,A4,Cinthol,5,10,50
+sales,26-Jan-23,C6,A5,Dove,10,10,100
+sales,26-Jan-23,C6,A6,Medimix,1,10,10
+sales,26-Jan-23,C7,A1,Hamam,10,10,100
+sales,26-Jan-23,C7,A2,LUX,5,10,50
+sales,26-Jan-23,C7,A3,Park Avenue,1,10,10
+sales,26-Jan-23,C7,A4,Cinthol,8,10,80
+sales,26-Jan-23,C7,A5,Dove,3,10,30
+sales,26-Jan-23,C7,A6,Medimix,5,10,50
+sales,26-Jan-23,C8,A1,Hamam,4,10,40
+sales,26-Jan-23,C8,A2,LUX,3,10,30
+sales,26-Jan-23,C8,A3,Park Avenue,10,10,100
+sales,26-Jan-23,C8,A4,Cinthol,1,10,10
+sales,26-Jan-23,C8,A5,Dove,6,10,60
+sales,26-Jan-23,C8,A6,Medimix,1,10,10
+sales,26-Jan-23,C9,A1,Hamam,6,10,60
+sales,26-Jan-23,C9,A2,LUX,2,10,20
+sales,26-Jan-23,C9,A3,Park Avenue,10,10,100
+sales,26-Jan-23,C9,A4,Cinthol,8,10,80
+sales,26-Jan-23,C9,A5,Dove,10,10,100
+sales,26-Jan-23,C9,A6,Medimix,1,10,10
+sales,27-Jan-23,C1,A1,Hamam,5,10,50
+sales,27-Jan-23,C1,A2,LUX,2,10,20
+sales,27-Jan-23,C1,A3,Park Avenue,4,10,40
+sales,27-Jan-23,C1,A4,Cinthol,5,10,50
+sales,27-Jan-23,C1,A5,Dove,5,10,50
+sales,27-Jan-23,C1,A6,Medimix,7,10,70
+sales,27-Jan-23,C2,A1,Hamam,10,10,100
+sales,27-Jan-23,C2,A2,LUX,5,10,50
+sales,27-Jan-23,C2,A3,Park Avenue,2,10,20
+sales,27-Jan-23,C2,A4,Cinthol,10,10,100
+sales,27-Jan-23,C2,A5,Dove,5,10,50
+sales,27-Jan-23,C2,A6,Medimix,4,10,40
+sales,27-Jan-23,C3,A1,Hamam,2,10,20
+sales,27-Jan-23,C3,A2,LUX,8,10,80
+sales,27-Jan-23,C3,A3,Park Avenue,3,10,30
+sales,27-Jan-23,C3,A4,Cinthol,4,10,40
+sales,27-Jan-23,C3,A5,Dove,8,10,80
+sales,27-Jan-23,C3,A6,Medimix,4,10,40
+sales,27-Jan-23,C4,A1,Hamam,8,10,80
+sales,27-Jan-23,C4,A2,LUX,2,10,20
+sales,27-Jan-23,C4,A3,Park Avenue,4,10,40
+sales,27-Jan-23,C4,A4,Cinthol,4,10,40
+sales,27-Jan-23,C4,A5,Dove,1,10,10
+sales,27-Jan-23,C4,A6,Medimix,3,10,30
+sales,27-Jan-23,C5,A1,Hamam,5,10,50
+sales,27-Jan-23,C5,A2,LUX,7,10,70
+sales,27-Jan-23,C5,A3,Park Avenue,3,10,30
+sales,27-Jan-23,C5,A4,Cinthol,5,10,50
+sales,27-Jan-23,C5,A5,Dove,5,10,50
+sales,27-Jan-23,C5,A6,Medimix,2,10,20
+sales,27-Jan-23,C6,A1,Hamam,10,10,100
+sales,27-Jan-23,C6,A2,LUX,3,10,30
+sales,27-Jan-23,C6,A3,Park Avenue,3,10,30
+sales,27-Jan-23,C6,A4,Cinthol,9,10,90
+sales,27-Jan-23,C6,A5,Dove,10,10,100
+sales,27-Jan-23,C6,A6,Medimix,6,10,60
+sales,27-Jan-23,C7,A1,Hamam,7,10,70
+sales,27-Jan-23,C7,A2,LUX,6,10,60
+sales,27-Jan-23,C7,A3,Park Avenue,8,10,80
+sales,27-Jan-23,C7,A4,Cinthol,6,10,60
+sales,27-Jan-23,C7,A5,Dove,6,10,60
+sales,27-Jan-23,C7,A6,Medimix,7,10,70
+sales,27-Jan-23,C8,A1,Hamam,7,10,70
+sales,27-Jan-23,C8,A2,LUX,9,10,90
+sales,27-Jan-23,C8,A3,Park Avenue,9,10,90
+sales,27-Jan-23,C8,A4,Cinthol,4,10,40
+sales,27-Jan-23,C8,A5,Dove,10,10,100
+sales,27-Jan-23,C8,A6,Medimix,3,10,30
+sales,27-Jan-23,C9,A1,Hamam,8,10,80
+sales,27-Jan-23,C9,A2,LUX,3,10,30
+sales,27-Jan-23,C9,A3,Park Avenue,4,10,40
+sales,27-Jan-23,C9,A4,Cinthol,2,10,20
+sales,27-Jan-23,C9,A5,Dove,9,10,90
+sales,27-Jan-23,C9,A6,Medimix,8,10,80
+sales,28-Jan-23,C1,A1,Hamam,4,10,40
+sales,28-Jan-23,C1,A2,LUX,6,10,60
+sales,28-Jan-23,C1,A3,Park Avenue,9,10,90
+sales,28-Jan-23,C1,A4,Cinthol,5,10,50
+sales,28-Jan-23,C1,A5,Dove,4,10,40
+sales,28-Jan-23,C1,A6,Medimix,8,10,80
+sales,28-Jan-23,C2,A1,Hamam,5,10,50
+sales,28-Jan-23,C2,A2,LUX,10,10,100
+sales,28-Jan-23,C2,A3,Park Avenue,8,10,80
+sales,28-Jan-23,C2,A4,Cinthol,10,10,100
+sales,28-Jan-23,C2,A5,Dove,9,10,90
+sales,28-Jan-23,C2,A6,Medimix,9,10,90
+sales,28-Jan-23,C3,A1,Hamam,2,10,20
+sales,28-Jan-23,C3,A2,LUX,1,10,10
+sales,28-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,28-Jan-23,C3,A4,Cinthol,5,10,50
+sales,28-Jan-23,C3,A5,Dove,10,10,100
+sales,28-Jan-23,C3,A6,Medimix,8,10,80
+sales,28-Jan-23,C4,A1,Hamam,1,10,10
+sales,28-Jan-23,C4,A2,LUX,5,10,50
+sales,28-Jan-23,C4,A3,Park Avenue,3,10,30
+sales,28-Jan-23,C4,A4,Cinthol,8,10,80
+sales,28-Jan-23,C4,A5,Dove,2,10,20
+sales,28-Jan-23,C4,A6,Medimix,2,10,20
+sales,28-Jan-23,C5,A1,Hamam,7,10,70
+sales,28-Jan-23,C5,A2,LUX,9,10,90
+sales,28-Jan-23,C5,A3,Park Avenue,4,10,40
+sales,28-Jan-23,C5,A4,Cinthol,2,10,20
+sales,28-Jan-23,C5,A5,Dove,9,10,90
+sales,28-Jan-23,C5,A6,Medimix,1,10,10
+sales,28-Jan-23,C6,A1,Hamam,1,10,10
+sales,28-Jan-23,C6,A2,LUX,3,10,30
+sales,28-Jan-23,C6,A3,Park Avenue,1,10,10
+sales,28-Jan-23,C6,A4,Cinthol,10,10,100
+sales,28-Jan-23,C6,A5,Dove,1,10,10
+sales,28-Jan-23,C6,A6,Medimix,4,10,40
+sales,28-Jan-23,C7,A1,Hamam,10,10,100
+sales,28-Jan-23,C7,A2,LUX,8,10,80
+sales,28-Jan-23,C7,A3,Park Avenue,7,10,70
+sales,28-Jan-23,C7,A4,Cinthol,1,10,10
+sales,28-Jan-23,C7,A5,Dove,9,10,90
+sales,28-Jan-23,C7,A6,Medimix,1,10,10
+sales,28-Jan-23,C8,A1,Hamam,10,10,100
+sales,28-Jan-23,C8,A2,LUX,1,10,10
+sales,28-Jan-23,C8,A3,Park Avenue,8,10,80
+sales,28-Jan-23,C8,A4,Cinthol,4,10,40
+sales,28-Jan-23,C8,A5,Dove,6,10,60
+sales,28-Jan-23,C8,A6,Medimix,3,10,30
+sales,28-Jan-23,C9,A1,Hamam,8,10,80
+sales,28-Jan-23,C9,A2,LUX,2,10,20
+sales,28-Jan-23,C9,A3,Park Avenue,8,10,80
+sales,28-Jan-23,C9,A4,Cinthol,1,10,10
+sales,28-Jan-23,C9,A5,Dove,5,10,50
+sales,28-Jan-23,C9,A6,Medimix,2,10,20
+sales,29-Jan-23,C1,A1,Hamam,1,10,10
+sales,29-Jan-23,C1,A2,LUX,8,10,80
+sales,29-Jan-23,C1,A3,Park Avenue,2,10,20
+sales,29-Jan-23,C1,A4,Cinthol,8,10,80
+sales,29-Jan-23,C1,A5,Dove,9,10,90
+sales,29-Jan-23,C1,A6,Medimix,9,10,90
+sales,29-Jan-23,C2,A1,Hamam,7,10,70
+sales,29-Jan-23,C2,A2,LUX,2,10,20
+sales,29-Jan-23,C2,A3,Park Avenue,7,10,70
+sales,29-Jan-23,C2,A4,Cinthol,6,10,60
+sales,29-Jan-23,C2,A5,Dove,4,10,40
+sales,29-Jan-23,C2,A6,Medimix,6,10,60
+sales,29-Jan-23,C3,A1,Hamam,9,10,90
+sales,29-Jan-23,C3,A2,LUX,7,10,70
+sales,29-Jan-23,C3,A3,Park Avenue,6,10,60
+sales,29-Jan-23,C3,A4,Cinthol,1,10,10
+sales,29-Jan-23,C3,A5,Dove,3,10,30
+sales,29-Jan-23,C3,A6,Medimix,8,10,80
+sales,29-Jan-23,C4,A1,Hamam,10,10,100
+sales,29-Jan-23,C4,A2,LUX,8,10,80
+sales,29-Jan-23,C4,A3,Park Avenue,5,10,50
+sales,29-Jan-23,C4,A4,Cinthol,1,10,10
+sales,29-Jan-23,C4,A5,Dove,10,10,100
+sales,29-Jan-23,C4,A6,Medimix,9,10,90
+sales,29-Jan-23,C5,A1,Hamam,7,10,70
+sales,29-Jan-23,C5,A2,LUX,6,10,60
+sales,29-Jan-23,C5,A3,Park Avenue,3,10,30
+sales,29-Jan-23,C5,A4,Cinthol,1,10,10
+sales,29-Jan-23,C5,A5,Dove,10,10,100
+sales,29-Jan-23,C5,A6,Medimix,8,10,80
+sales,29-Jan-23,C6,A1,Hamam,8,10,80
+sales,29-Jan-23,C6,A2,LUX,10,10,100
+sales,29-Jan-23,C6,A3,Park Avenue,6,10,60
+sales,29-Jan-23,C6,A4,Cinthol,2,10,20
+sales,29-Jan-23,C6,A5,Dove,4,10,40
+sales,29-Jan-23,C6,A6,Medimix,9,10,90
+sales,29-Jan-23,C7,A1,Hamam,3,10,30
+sales,29-Jan-23,C7,A2,LUX,7,10,70
+sales,29-Jan-23,C7,A3,Park Avenue,8,10,80
+sales,29-Jan-23,C7,A4,Cinthol,8,10,80
+sales,29-Jan-23,C7,A5,Dove,8,10,80
+sales,29-Jan-23,C7,A6,Medimix,7,10,70
+sales,29-Jan-23,C8,A1,Hamam,8,10,80
+sales,29-Jan-23,C8,A2,LUX,4,10,40
+sales,29-Jan-23,C8,A3,Park Avenue,6,10,60
+sales,29-Jan-23,C8,A4,Cinthol,7,10,70
+sales,29-Jan-23,C8,A5,Dove,5,10,50
+sales,29-Jan-23,C8,A6,Medimix,6,10,60
+sales,29-Jan-23,C9,A1,Hamam,8,10,80
+sales,29-Jan-23,C9,A2,LUX,3,10,30
+sales,29-Jan-23,C9,A3,Park Avenue,3,10,30
+sales,29-Jan-23,C9,A4,Cinthol,6,10,60
+sales,29-Jan-23,C9,A5,Dove,8,10,80
+sales,29-Jan-23,C9,A6,Medimix,7,10,70
+sales,30-Jan-23,C1,A1,Hamam,10,10,100
+sales,30-Jan-23,C1,A2,LUX,3,10,30
+sales,30-Jan-23,C1,A3,Park Avenue,3,10,30
+sales,30-Jan-23,C1,A4,Cinthol,4,10,40
+sales,30-Jan-23,C1,A5,Dove,5,10,50
+sales,30-Jan-23,C1,A6,Medimix,7,10,70
+sales,30-Jan-23,C2,A1,Hamam,3,10,30
+sales,30-Jan-23,C2,A2,LUX,8,10,80
+sales,30-Jan-23,C2,A3,Park Avenue,9,10,90
+sales,30-Jan-23,C2,A4,Cinthol,2,10,20
+sales,30-Jan-23,C2,A5,Dove,6,10,60
+sales,30-Jan-23,C2,A6,Medimix,1,10,10
+sales,30-Jan-23,C3,A1,Hamam,5,10,50
+sales,30-Jan-23,C3,A2,LUX,2,10,20
+sales,30-Jan-23,C3,A3,Park Avenue,2,10,20
+sales,30-Jan-23,C3,A4,Cinthol,8,10,80
+sales,30-Jan-23,C3,A5,Dove,4,10,40
+sales,30-Jan-23,C3,A6,Medimix,3,10,30
+sales,30-Jan-23,C4,A1,Hamam,10,10,100
+sales,30-Jan-23,C4,A2,LUX,3,10,30
+sales,30-Jan-23,C4,A3,Park Avenue,8,10,80
+sales,30-Jan-23,C4,A4,Cinthol,7,10,70
+sales,30-Jan-23,C4,A5,Dove,2,10,20
+sales,30-Jan-23,C4,A6,Medimix,10,10,100
+sales,30-Jan-23,C5,A1,Hamam,3,10,30
+sales,30-Jan-23,C5,A2,LUX,10,10,100
+sales,30-Jan-23,C5,A3,Park Avenue,8,10,80
+sales,30-Jan-23,C5,A4,Cinthol,5,10,50
+sales,30-Jan-23,C5,A5,Dove,8,10,80
+sales,30-Jan-23,C5,A6,Medimix,1,10,10
+sales,30-Jan-23,C6,A1,Hamam,3,10,30
+sales,30-Jan-23,C6,A2,LUX,4,10,40
+sales,30-Jan-23,C6,A3,Park Avenue,4,10,40
+sales,30-Jan-23,C6,A4,Cinthol,7,10,70
+sales,30-Jan-23,C6,A5,Dove,5,10,50
+sales,30-Jan-23,C6,A6,Medimix,6,10,60
+sales,30-Jan-23,C7,A1,Hamam,3,10,30
+sales,30-Jan-23,C7,A2,LUX,5,10,50
+sales,30-Jan-23,C7,A3,Park Avenue,5,10,50
+sales,30-Jan-23,C7,A4,Cinthol,3,10,30
+sales,30-Jan-23,C7,A5,Dove,1,10,10
+sales,30-Jan-23,C7,A6,Medimix,10,10,100
+sales,30-Jan-23,C8,A1,Hamam,7,10,70
+sales,30-Jan-23,C8,A2,LUX,9,10,90
+sales,30-Jan-23,C8,A3,Park Avenue,3,10,30
+sales,30-Jan-23,C8,A4,Cinthol,9,10,90
+sales,30-Jan-23,C8,A5,Dove,2,10,20
+sales,30-Jan-23,C8,A6,Medimix,6,10,60
+sales,30-Jan-23,C9,A1,Hamam,1,10,10
+sales,30-Jan-23,C9,A2,LUX,9,10,90
+sales,30-Jan-23,C9,A3,Park Avenue,2,10,20
+sales,30-Jan-23,C9,A4,Cinthol,9,10,90
+sales,30-Jan-23,C9,A5,Dove,5,10,50
+sales,30-Jan-23,C9,A6,Medimix,4,10,40
+sales,31-Jan-23,C1,A1,Hamam,3,10,30
+sales,31-Jan-23,C1,A2,LUX,9,10,90
+sales,31-Jan-23,C1,A3,Park Avenue,8,10,80
+sales,31-Jan-23,C1,A4,Cinthol,9,10,90
+sales,31-Jan-23,C1,A5,Dove,1,10,10
+sales,31-Jan-23,C1,A6,Medimix,3,10,30
+sales,31-Jan-23,C2,A1,Hamam,2,10,20
+sales,31-Jan-23,C2,A2,LUX,1,10,10
+sales,31-Jan-23,C2,A3,Park Avenue,6,10,60
+sales,31-Jan-23,C2,A4,Cinthol,4,10,40
+sales,31-Jan-23,C2,A5,Dove,7,10,70
+sales,31-Jan-23,C2,A6,Medimix,3,10,30
+sales,31-Jan-23,C3,A1,Hamam,9,10,90
+sales,31-Jan-23,C3,A2,LUX,6,10,60
+sales,31-Jan-23,C3,A3,Park Avenue,10,10,100
+sales,31-Jan-23,C3,A4,Cinthol,1,10,10
+sales,31-Jan-23,C3,A5,Dove,5,10,50
+sales,31-Jan-23,C3,A6,Medimix,3,10,30
+sales,31-Jan-23,C4,A1,Hamam,10,10,100
+sales,31-Jan-23,C4,A2,LUX,7,10,70
+sales,31-Jan-23,C4,A3,Park Avenue,4,10,40
+sales,31-Jan-23,C4,A4,Cinthol,1,10,10
+sales,31-Jan-23,C4,A5,Dove,4,10,40
+sales,31-Jan-23,C4,A6,Medimix,3,10,30
+sales,31-Jan-23,C5,A1,Hamam,10,10,100
+sales,31-Jan-23,C5,A2,LUX,9,10,90
+sales,31-Jan-23,C5,A3,Park Avenue,10,10,100
+sales,31-Jan-23,C5,A4,Cinthol,8,10,80
+sales,31-Jan-23,C5,A5,Dove,5,10,50
+sales,31-Jan-23,C5,A6,Medimix,8,10,80
+sales,31-Jan-23,C6,A1,Hamam,8,10,80
+sales,31-Jan-23,C6,A2,LUX,9,10,90
+sales,31-Jan-23,C6,A3,Park Avenue,6,10,60
+sales,31-Jan-23,C6,A4,Cinthol,4,10,40
+sales,31-Jan-23,C6,A5,Dove,1,10,10
+sales,31-Jan-23,C6,A6,Medimix,2,10,20
+sales,31-Jan-23,C7,A1,Hamam,8,10,80
+sales,31-Jan-23,C7,A2,LUX,10,10,100
+sales,31-Jan-23,C7,A3,Park Avenue,6,10,60
+sales,31-Jan-23,C7,A4,Cinthol,9,10,90
+sales,31-Jan-23,C7,A5,Dove,9,10,90
+sales,31-Jan-23,C7,A6,Medimix,5,10,50
+sales,31-Jan-23,C8,A1,Hamam,10,10,100
+sales,31-Jan-23,C8,A2,LUX,7,10,70
+sales,31-Jan-23,C8,A3,Park Avenue,3,10,30
+sales,31-Jan-23,C8,A4,Cinthol,5,10,50
+sales,31-Jan-23,C8,A5,Dove,8,10,80
+sales,31-Jan-23,C8,A6,Medimix,1,10,10
+sales,31-Jan-23,C9,A1,Hamam,8,10,80
+sales,31-Jan-23,C9,A2,LUX,1,10,10
+sales,31-Jan-23,C9,A3,Park Avenue,2,10,20
+sales,31-Jan-23,C9,A4,Cinthol,7,10,70
+sales,31-Jan-23,C9,A5,Dove,6,10,60
+sales,31-Jan-23,C9,A6,Medimix,5,10,50

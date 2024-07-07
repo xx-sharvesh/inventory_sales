@@ -1,0 +1,103 @@
+Date,Item_Code,Brand,Stock_Remaining,Warning_Level
+30-Apr-25,A2,LUX,99,Yellow
+30-Apr-25,A1,Hamam,95,Yellow
+30-Apr-25,A2,LUX,90,Yellow
+30-Apr-25,A1,Hamam,89,Yellow
+30-Apr-25,A2,LUX,77,Yellow
+30-Apr-25,A5,Dove,96,Yellow
+24-May-25,A1,Hamam,89,Yellow
+24-May-25,A1,Hamam,77,Yellow
+24-May-25,A1,Hamam,63,Yellow
+24-May-25,A1,Hamam,49,Orange
+24-May-25,A1,Hamam,34,Orange
+24-May-25,A1,Hamam,19,Light Red
+25-May-25,A1,Hamam,9,Dark Red
+25-May-25,A1,Hamam,0,Dark Red
+25-May-25,A2,LUX,95,Yellow
+25-May-25,A2,LUX,80,Yellow
+25-May-25,A6,Medimix,94,Yellow
+25-May-25,A2,LUX,74,Yellow
+25-May-25,A3,Park Avenue,95,Yellow
+25-May-25,A6,Medimix,88,Yellow
+25-May-25,A2,LUX,63,Yellow
+25-May-25,A3,Park Avenue,86,Yellow
+25-May-25,A6,Medimix,82,Yellow
+25-May-25,A2,LUX,53,Yellow
+25-May-25,A3,Park Avenue,81,Yellow
+25-May-25,A6,Medimix,74,Yellow
+25-May-25,A2,LUX,42,Orange
+25-May-25,A3,Park Avenue,76,Yellow
+25-May-25,A6,Medimix,69,Yellow
+26-May-25,A1,Hamam,0,Dark Red
+26-May-25,A2,LUX,31,Orange
+26-May-25,A3,Park Avenue,68,Yellow
+26-May-25,A5,Dove,97,Yellow
+26-May-25,A6,Medimix,62,Yellow
+26-May-25,A2,LUX,24,Light Red
+26-May-25,A3,Park Avenue,63,Yellow
+26-May-25,A5,Dove,85,Yellow
+26-May-25,A6,Medimix,55,Yellow
+26-May-25,A2,LUX,16,Light Red
+26-May-25,A3,Park Avenue,56,Yellow
+26-May-25,A4,Cinthol,96,Yellow
+26-May-25,A5,Dove,71,Yellow
+26-May-25,A6,Medimix,47,Orange
+26-May-25,A2,LUX,6,Dark Red
+26-May-25,A3,Park Avenue,51,Yellow
+26-May-25,A4,Cinthol,87,Yellow
+26-May-25,A5,Dove,56,Yellow
+26-May-25,A6,Medimix,39,Orange
+26-May-25,A2,LUX,0,Dark Red
+26-May-25,A3,Park Avenue,37,Orange
+26-May-25,A4,Cinthol,76,Yellow
+26-May-25,A5,Dove,44,Orange
+26-May-25,A6,Medimix,31,Orange
+26-May-25,A3,Park Avenue,29,Orange
+26-May-25,A4,Cinthol,69,Yellow
+26-May-25,A5,Dove,38,Orange
+26-May-25,A6,Medimix,23,Light Red
+26-May-25,A3,Park Avenue,18,Light Red
+26-May-25,A4,Cinthol,60,Yellow
+26-May-25,A5,Dove,25,Light Red
+26-May-25,A6,Medimix,12,Light Red
+26-May-25,A3,Park Avenue,10,Dark Red
+26-May-25,A4,Cinthol,49,Orange
+26-May-25,A5,Dove,11,Light Red
+26-May-25,A6,Medimix,5,Dark Red
+26-May-25,A3,Park Avenue,0,Dark Red
+26-May-25,A4,Cinthol,35,Orange
+26-May-25,A5,Dove,2,Dark Red
+26-May-25,A6,Medimix,0,Dark Red
+27-May-25,A1,Hamam,0,Dark Red
+27-May-25,A2,LUX,0,Dark Red
+27-May-25,A3,Park Avenue,0,Dark Red
+27-May-25,A4,Cinthol,27,Orange
+27-May-25,A5,Dove,0,Dark Red
+27-May-25,A6,Medimix,0,Dark Red
+27-May-25,A4,Cinthol,20,Light Red
+27-May-25,A4,Cinthol,9,Dark Red
+27-May-25,A4,Cinthol,0,Dark Red
+28-May-25,A1,Hamam,0,Dark Red
+28-May-25,A2,LUX,0,Dark Red
+28-May-25,A3,Park Avenue,0,Dark Red
+28-May-25,A4,Cinthol,0,Dark Red
+28-May-25,A5,Dove,0,Dark Red
+28-May-25,A6,Medimix,0,Dark Red
+29-May-25,A1,Hamam,0,Dark Red
+29-May-25,A2,LUX,0,Dark Red
+29-May-25,A3,Park Avenue,0,Dark Red
+29-May-25,A4,Cinthol,0,Dark Red
+29-May-25,A5,Dove,0,Dark Red
+29-May-25,A6,Medimix,0,Dark Red
+30-May-25,A1,Hamam,0,Dark Red
+30-May-25,A2,LUX,0,Dark Red
+30-May-25,A3,Park Avenue,0,Dark Red
+30-May-25,A4,Cinthol,0,Dark Red
+30-May-25,A5,Dove,0,Dark Red
+30-May-25,A6,Medimix,0,Dark Red
+31-May-25,A1,Hamam,0,Dark Red
+31-May-25,A2,LUX,0,Dark Red
+31-May-25,A3,Park Avenue,0,Dark Red
+31-May-25,A4,Cinthol,0,Dark Red
+31-May-25,A5,Dove,0,Dark Red
+31-May-25,A6,Medimix,0,Dark Red

@@ -1,0 +1,145 @@
+Date,Item_Code,Brand,Stock_Remaining
+29-Apr-25,A3,Park Avenue,99
+29-Apr-25,A3,Park Avenue,93
+29-Apr-25,A3,Park Avenue,81
+29-Apr-25,A3,Park Avenue,71
+29-Apr-25,A3,Park Avenue,60
+29-Apr-25,A3,Park Avenue,53
+29-Apr-25,A3,Park Avenue,47
+29-Apr-25,A2,LUX,97
+29-Apr-25,A3,Park Avenue,41
+30-Apr-25,A2,LUX,89
+30-Apr-25,A3,Park Avenue,30
+30-Apr-25,A4,Cinthol,98
+30-Apr-25,A2,LUX,79
+30-Apr-25,A3,Park Avenue,25
+30-Apr-25,A4,Cinthol,92
+30-Apr-25,A5,Dove,91
+30-Apr-25,A2,LUX,73
+30-Apr-25,A3,Park Avenue,15
+30-Apr-25,A4,Cinthol,87
+30-Apr-25,A5,Dove,80
+30-Apr-25,A2,LUX,65
+30-Apr-25,A3,Park Avenue,10
+30-Apr-25,A4,Cinthol,79
+30-Apr-25,A5,Dove,66
+30-Apr-25,A2,LUX,52
+30-Apr-25,A3,Park Avenue,2
+30-Apr-25,A4,Cinthol,70
+30-Apr-25,A5,Dove,59
+30-Apr-25,A2,LUX,44
+30-Apr-25,A3,Park Avenue,0
+30-Apr-25,A4,Cinthol,63
+30-Apr-25,A5,Dove,52
+30-Apr-25,A1,Hamam,86
+30-Apr-25,A2,LUX,38
+30-Apr-25,A4,Cinthol,57
+30-Apr-25,A5,Dove,44
+30-Apr-25,A6,Medimix,90
+30-Apr-25,A1,Hamam,81
+30-Apr-25,A2,LUX,31
+30-Apr-25,A4,Cinthol,49
+30-Apr-25,A5,Dove,36
+30-Apr-25,A6,Medimix,83
+30-Apr-25,A1,Hamam,71
+30-Apr-25,A2,LUX,22
+30-Apr-25,A4,Cinthol,42
+30-Apr-25,A5,Dove,22
+30-Apr-25,A6,Medimix,75
+23-May-25,A2,LUX,96
+23-May-25,A2,LUX,83
+23-May-25,A2,LUX,68
+24-May-25,A2,LUX,53
+24-May-25,A2,LUX,43
+24-May-25,A2,LUX,36
+24-May-25,A2,LUX,25
+24-May-25,A2,LUX,10
+24-May-25,A2,LUX,0
+24-May-25,A4,Cinthol,98
+24-May-25,A4,Cinthol,86
+24-May-25,A5,Dove,93
+24-May-25,A6,Medimix,91
+24-May-25,A4,Cinthol,73
+24-May-25,A5,Dove,82
+24-May-25,A6,Medimix,82
+25-May-25,A2,LUX,0
+25-May-25,A4,Cinthol,64
+25-May-25,A5,Dove,73
+25-May-25,A6,Medimix,67
+25-May-25,A4,Cinthol,59
+25-May-25,A5,Dove,62
+25-May-25,A6,Medimix,54
+25-May-25,A1,Hamam,92
+25-May-25,A4,Cinthol,51
+25-May-25,A5,Dove,48
+25-May-25,A6,Medimix,43
+25-May-25,A1,Hamam,83
+25-May-25,A4,Cinthol,44
+25-May-25,A5,Dove,33
+25-May-25,A6,Medimix,38
+25-May-25,A1,Hamam,74
+25-May-25,A3,Park Avenue,93
+25-May-25,A4,Cinthol,31
+25-May-25,A5,Dove,23
+25-May-25,A6,Medimix,30
+25-May-25,A1,Hamam,59
+25-May-25,A3,Park Avenue,85
+25-May-25,A4,Cinthol,16
+25-May-25,A5,Dove,10
+25-May-25,A6,Medimix,24
+25-May-25,A1,Hamam,50
+25-May-25,A3,Park Avenue,77
+25-May-25,A4,Cinthol,2
+25-May-25,A5,Dove,0
+25-May-25,A6,Medimix,15
+25-May-25,A1,Hamam,37
+25-May-25,A3,Park Avenue,71
+25-May-25,A4,Cinthol,0
+25-May-25,A6,Medimix,1
+25-May-25,A1,Hamam,28
+25-May-25,A3,Park Avenue,65
+25-May-25,A6,Medimix,0
+26-May-25,A1,Hamam,16
+26-May-25,A2,LUX,0
+26-May-25,A3,Park Avenue,53
+26-May-25,A4,Cinthol,0
+26-May-25,A5,Dove,0
+26-May-25,A6,Medimix,0
+26-May-25,A1,Hamam,5
+26-May-25,A3,Park Avenue,43
+26-May-25,A1,Hamam,0
+26-May-25,A3,Park Avenue,32
+26-May-25,A3,Park Avenue,23
+26-May-25,A3,Park Avenue,9
+26-May-25,A3,Park Avenue,1
+26-May-25,A3,Park Avenue,0
+27-May-25,A1,Hamam,0
+27-May-25,A2,LUX,0
+27-May-25,A3,Park Avenue,0
+27-May-25,A4,Cinthol,0
+27-May-25,A5,Dove,0
+27-May-25,A6,Medimix,0
+28-May-25,A1,Hamam,0
+28-May-25,A2,LUX,0
+28-May-25,A3,Park Avenue,0
+28-May-25,A4,Cinthol,0
+28-May-25,A5,Dove,0
+28-May-25,A6,Medimix,0
+29-May-25,A1,Hamam,0
+29-May-25,A2,LUX,0
+29-May-25,A3,Park Avenue,0
+29-May-25,A4,Cinthol,0
+29-May-25,A5,Dove,0
+29-May-25,A6,Medimix,0
+30-May-25,A1,Hamam,0
+30-May-25,A2,LUX,0
+30-May-25,A3,Park Avenue,0
+30-May-25,A4,Cinthol,0
+30-May-25,A5,Dove,0
+30-May-25,A6,Medimix,0
+31-May-25,A1,Hamam,0
+31-May-25,A2,LUX,0
+31-May-25,A3,Park Avenue,0
+31-May-25,A4,Cinthol,0
+31-May-25,A5,Dove,0
+31-May-25,A6,Medimix,0

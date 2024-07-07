@@ -1,0 +1,906 @@
+
+<html>
+<head>
+    <title>Predicted Stock Warnings</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .critical {
+            background-color: black;
+            color: white;
+        }
+        .dark-red {
+            background-color: #8B0000;
+            color: white;
+        }
+        .light-red {
+            background-color: #FF6347;
+            color: white;
+        }
+        .orange {
+            background-color: #FFA500;
+            color: black;
+        }
+        .yellow {
+            background-color: #FFFF00;
+            color: black;
+        }
+        .legend {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .legend div {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .color-box {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+        }
+    </style>
+    <script>
+        function generatePredictions() {
+            document.getElementById('predictionsTable').style.display = 'table';
+        }
+    </script>
+</head>
+<body>
+    <h2>Predicted Stock Warnings</h2>
+    <button onclick="generatePredictions()">Generate Predictions</button>
+    <div class="legend">
+        <div><div class="color-box yellow"></div>Warning Level 1: Stock ≤ 100</div>
+        <div><div class="color-box orange"></div>Warning Level 2: Stock ≤ 50</div>
+        <div><div class="color-box light-red"></div>Warning Level 3: Stock ≤ 25</div>
+        <div><div class="color-box dark-red"></div>Warning Level 4: Stock ≤ 10</div>
+        <div><div class="color-box critical"></div>Critical Warning: Stock = 0</div>
+    </div>
+    <table id="predictionsTable" style="display: none;">
+        <tr>
+            <th>Date</th>
+            <th>Item Code</th>
+            <th>Brand</th>
+            <th>Stock Remaining</th>
+            <th>Warning Level</th>
+        </tr>
+
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>99</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>95</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>90</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>89</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>77</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>30-Apr-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>96</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>89</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>77</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>63</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>49</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>34</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>24-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>19</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>9</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>95</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>80</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>94</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>74</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>95</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>88</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>63</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>86</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>82</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>53</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>81</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>74</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>42</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>76</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>25-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>69</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>31</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>68</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>97</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>62</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>24</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>63</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>85</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>55</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>16</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>56</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>96</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>71</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>47</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>6</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>51</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>87</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>56</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>39</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>37</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>76</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>44</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>31</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>29</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>69</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>38</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>23</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>18</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>60</td>
+            <td class="yellow"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>25</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>12</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>10</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>49</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>11</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>5</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>35</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>2</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>26-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>27</td>
+            <td class="orange"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>20</td>
+            <td class="light-red"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>9</td>
+            <td class="dark-red"></td>
+        </tr>
+    
+        <tr>
+            <td>27-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>28-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>29-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>30-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A1</td>
+            <td>Hamam</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A2</td>
+            <td>LUX</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A3</td>
+            <td>Park Avenue</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A4</td>
+            <td>Cinthol</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A5</td>
+            <td>Dove</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+        <tr>
+            <td>31-May-25</td>
+            <td>A6</td>
+            <td>Medimix</td>
+            <td>0</td>
+            <td class="critical"></td>
+        </tr>
+    
+    </table>
+</body>
+</html>
